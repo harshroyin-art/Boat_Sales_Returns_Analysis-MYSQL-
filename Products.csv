@@ -1,0 +1,379 @@
+product_id,product_name,MRP,category,rating,color,model_number,Review,"Review Tag"
+1,"Bassheads 900",849,"wired headphones",1.2,Grey,SKU-000001,"Low Quality ",Negative
+2,"BassHeads 242",599,"wired headphones",3.2,Grey,SKU-000007,"Loved It",Positive
+3,"TRebel BassHeads 242",599,"wired headphones",4.5,Black,SKU-000013,"Good Quality""",Positive
+4,"BassHeads 152",449,"wired headphones",5,White,SKU-000019,"Good Quality""",Positive
+5,"BassHeads 172",499,"wired headphones",3.2,Grey,SKU-000025,"Loved It",Positive
+6,"BassHeads 100",399,"wired headphones",4.3,Grey,SKU-000031,"High Recommended",Positive
+7,"BassHeads 102",449,"wired headphones",3.2,Black,SKU-000037,"Loved It",Positive
+8,"BassHeads 103",499,"wired headphones",1.2,Black,SKU-000043,"Low Quality ",Negative
+9,"BassHeads 220",699,"wired headphones",3.2,White,SKU-000049,"Loved It",Positive
+10,"TRebel BassHeads 100",399,"wired headphones",4.5,White,SKU-000109,"Good Quality""",Positive
+11,"TRebel BassHeads 152",499,"wired headphones",3.2,Black,SKU-000115,"Loved It",Positive
+12,"BassHeads 104",449,"wired headphones",4.5,White,SKU-000121,"Good Quality""",Positive
+13,"TRebel BassHeads 102",399,"wired headphones",5,White,SKU-000127,"Good Quality""",Positive
+14,"TRebel BassHeads 103",499,"wired headphones",3.2,White,SKU-000133,"Loved It",Positive
+15,"Bassheads 192 - Make in India",449,"wired headphones",2.5,Grey,SKU-000139,Decent,Neutral
+16,"BassHeads 225",399,"wired headphones",3.4,Black,SKU-000140,"Loved It",Positive
+17,"BassHeads 228",699,"wired headphones",3.6,White,SKU-000146,Excellent,Positive
+18,"BassHeads 110",449,"wired headphones",3.7,Grey,SKU-000147,Excellent,Positive
+19,"Airdopes 131",999,"wireless earbuds",3.9,Black,SKU-000154,Excellent,Positive
+20,"Airdopes 131 PRO",1199,"wireless earbuds",4.2,Black,SKU-000160,"High Recommended",Positive
+21,"Airdopes 411 ANC",2499,"wireless earbuds",3.2,Beige,SKU-000166,"Loved It",Positive
+22,"Airdopes 121 PRO",1499,"wireless earbuds",4.3,Green,SKU-000172,"High Recommended",Positive
+23,"Airdopes 141",1499,"wireless earbuds",4.3,Green,SKU-000178,"High Recommended",Positive
+24,"Airdopes 121 v2",1299,"wireless earbuds",4.3,Blue,SKU-000184,"High Recommended",Positive
+25,"Airdopes 402",1499,"wireless earbuds",4.3,White,SKU-000190,"High Recommended",Positive
+26,"Airdopes 115",999,"wireless earbuds",4.3,Green,SKU-000196,"High Recommended",Positive
+27,"TRebel Airdopes 141",1499,"wireless earbuds",4.3,White,SKU-000202,"High Recommended",Positive
+28,"TRebel Airdopes 131",1299,"wireless earbuds",4.3,Blue,SKU-000262,"High Recommended",Positive
+29,"Airdopes 161",1381,"wireless earbuds",4.3,Green,SKU-000268,"High Recommended",Positive
+30,"Airdopes 441",1999,"wireless earbuds",4.3,Black,SKU-000274,"High Recommended",Positive
+31,"Airdopes 141 Pro",1699,"wireless earbuds",4.3,White,SKU-000280,"High Recommended",Positive
+32,"Airdopes 381",1999,"wireless earbuds",4.3,Green,SKU-000286,"High Recommended",Positive
+33,"Airdopes 413 ANC",2499,"wireless earbuds",4.3,White,SKU-000292,"High Recommended",Positive
+34,"Airdopes 138",1499,"wireless earbuds",4.3,Blue,SKU-000298,"High Recommended",Positive
+35,"TRebel Airdopes 381",2199,"wireless earbuds",4.3,Beige,SKU-000304,"High Recommended",Positive
+36,"TRebel Airdopes 402",1999,"wireless earbuds",4.3,Green,SKU-000310,"High Recommended",Positive
+37,"Airdopes 171",1499,"wireless earbuds",4.3,Green,SKU-000316,"High Recommended",Positive
+38,"Airdopes 181",1599,"wireless earbuds",4.3,Black,SKU-000322,"High Recommended",Positive
+39,"Airdopes 451v2",2999,"wireless earbuds",4.3,Beige,SKU-000328,"High Recommended",Positive
+40,"Airdopes 131 Captain America Marvel Edition",1599,"wireless earbuds",4.3,White,SKU-000334,"High Recommended",Positive
+41,"Airdopes 601 ANC",2999,"wireless earbuds",4.3,Green,SKU-000340,"High Recommended",Positive
+42,"Airdopes 441 Pro",2999,"wireless earbuds",4.3,Green,SKU-000343,"High Recommended",Positive
+43,"TRebel Airdopes 441 Pro",2999,"wireless earbuds",4.3,Green,SKU-000349,"High Recommended",Positive
+44,"Airdopes 500 ANC",4499,"wireless earbuds",4.3,Blue,SKU-000354,"High Recommended",Positive
+45,"Airdopes 131 Iron Man Marvel Edition",1599,"wireless earbuds",4.3,Black,SKU-000357,"High Recommended",Positive
+46,"Rockerz 235 V2",1183,"wireless headphones",4.3,Grey,SKU-000363,"High Recommended",Positive
+47,"Rockerz 255 Pro+",1299,"wireless headphones",4.3,Black,SKU-000369,"High Recommended",Positive
+48,"Rockerz 245 V2",1299,"wireless headphones",4.3,Red,SKU-000375,"High Recommended",Positive
+49,"Rockerz 330",1299,"wireless headphones",4.3,"Navy Blue",SKU-000381,"High Recommended",Positive
+50,"Rockerz 333",1399,"wireless headphones",4.3,Grey,SKU-000387,"High Recommended",Positive
+51,"Rockerz 255",1299,"wireless headphones",4.3,Black,SKU-000393,"High Recommended",Positive
+52,"Rockerz 550",1999,"wireless headphones",4.3,Grey,SKU-000399,"High Recommended",Positive
+53,"Rockerz 255 Pro",1399,"wireless headphones",4.3,Red,SKU-000405,"High Recommended",Positive
+54,"Rockerz 103 Pro",999,"wireless headphones",4.3,Red,SKU-000411,"High Recommended",Positive
+55,"Rockerz 450",1499,"wireless headphones",4.3,Grey,SKU-000471,"High Recommended",Positive
+56,"Rockerz 255R",1299,"wireless headphones",4.3,Grey,SKU-000477,"High Recommended",Positive
+57,"Rockerz 333 Pro",1799,"wireless headphones",4.3,Black,SKU-000483,"High Recommended",Positive
+58,"Rockerz 260",1299,"wireless headphones",4.3,Grey,SKU-000489,"High Recommended",Positive
+59,"Rockerz 335",1699,"wireless headphones",4.3,Red,SKU-000495,"High Recommended",Positive
+60,"Rockerz 510",1299,"wireless headphones",4.3,Red,SKU-000501,"High Recommended",Positive
+61,"Rockerz 370",1199,"wireless headphones",4.3,Black,SKU-000507,"High Recommended",Positive
+62,"Rockerz 255 Neo",1299,"wireless headphones",4.3,Grey,SKU-000513,"High Recommended",Positive
+63,"Rockerz 261",849,"wireless headphones",2.5,Red,SKU-000519,Decent,Neutral
+64,"Rockerz 333 ANC",1899,"wireless headphones",4.3,Red,SKU-000525,"High Recommended",Positive
+65,"Rockerz 385 V2",1499,"wireless headphones",4.3,"Navy Blue",SKU-000531,"High Recommended",Positive
+66,"Rockerz 235 Pro",999,"wireless headphones",4.3,Red,SKU-000537,"High Recommended",Positive
+67,"Rockerz 255F",1299,"wireless headphones",4.3,Black,SKU-000543,"High Recommended",Positive
+68,"Rockerz 260 v1",1199,"wireless headphones",2.5,Grey,SKU-000549,Decent,Neutral
+69,"Rockerz 330 Pro",1799,"wireless headphones",2.5,Red,SKU-000555,Decent,Neutral
+70,"Rockerz 400",1499,"wireless headphones",2.5,Red,SKU-000561,Decent,Neutral
+71,"Rockerz 245 Pro",1299,"wireless headphones",2.5,Black,SKU-000567,Decent,Neutral
+72,"Rockerz 205 Pro",999,"wireless headphones",2.5,Grey,SKU-000573,Decent,Neutral
+73,"TRebel Rockerz 255 Pro",1499,"wireless headphones",2.5,Black,SKU-000579,Decent,Neutral
+74,"Rockerz 255 Pro Made in India",1399,"wireless headphones",2.5,Black,SKU-000583,Decent,Neutral
+75,"TRebel Rockerz 235 V2",1199,"wireless headphones",2.5,Red,SKU-000589,Decent,Neutral
+76,"Rockerz 330 ANC",1999,"wireless headphones",2.5,Grey,SKU-000595,Decent,Neutral
+77,"Rockerz 600",1699,"wireless headphones",2.5,"Navy Blue",SKU-000601,Decent,Neutral
+78,"Rockerz 375",999,"wireless headphones",2.5,Red,SKU-000607,Decent,Neutral
+79,"Rockerz 518",1599,"wireless headphones",2.5,Black,SKU-000613,Decent,Neutral
+80,"Nirvanaa 751 ANC",3999,"wireless headphones",2.5,"Navy Blue",SKU-000619,Decent,Neutral
+81,"Rockerz 450R",1499,"wireless headphones",2.5,Black,SKU-000625,Decent,Neutral
+82,"Rockerz 425",1499,"wireless headphones",2.5,Grey,SKU-000631,Decent,Neutral
+83,"Rockerz 450 Batman DC Edition",1299,"wireless headphones",2.5,Red,SKU-000637,Decent,Neutral
+84,"Rockerz 255 ARC",1299,"wireless headphones",2.5,Black,SKU-000643,Decent,Neutral
+85,"Trebel Rockerz 255 Pro+",1599,"wireless headphones",2.5,Red,SKU-000644,Decent,Neutral
+86,"Stone 1000v2",3999,"bluetooth speakers",2.5,Green,SKU-000650,Decent,Neutral
+87,"Stone Grenade",1499,"bluetooth speakers",2.5,Blue,SKU-000656,Decent,Neutral
+88,"Stone 190",1299,"bluetooth speakers",2.5,Blue,SKU-000662,Decent,Neutral
+89,"Stone 352",1699,"bluetooth speakers",2.5,Yellow,SKU-000668,Decent,Neutral
+90,"Stone 650",1999,"bluetooth speakers",2.5,Red,SKU-000674,Decent,Neutral
+91,"Stone 1200F",3999,"bluetooth speakers",2.5,Black,SKU-000680,Decent,Neutral
+92,"Stone 135",899,"bluetooth speakers",2.5,Black,SKU-000686,Decent,Neutral
+93,"Stone 180",939,"bluetooth speakers",2.5,Yellow,SKU-000692,Decent,Neutral
+94,"Rugby Plus",1999,"bluetooth speakers",2.5,Yellow,SKU-000698,Decent,Neutral
+95,"Stone 500",1999,"bluetooth speakers",2.5,Red,SKU-000758,Decent,Neutral
+96,"Stone 1000v2",3999,BoatProduct,2.5,Blue,SKU-000764,Decent,Neutral
+97,"Stone Grenade",1499,BoatProduct,2.5,Grey,SKU-000770,Decent,Neutral
+98,"Stone 190",1299,BoatProduct,2.5,Black,SKU-000776,Decent,Neutral
+99,"Stone 352",1699,BoatProduct,2.5,Blue,SKU-000782,Decent,Neutral
+100,"Stone 650",1999,BoatProduct,2.5,Grey,SKU-000788,Decent,Neutral
+101,"Stone 1200F",3999,BoatProduct,2.5,Silver,SKU-000794,Decent,Neutral
+102,"Stone 135",899,BoatProduct,2.5,Black,SKU-000800,Decent,Neutral
+103,"Stone 180",939,BoatProduct,2.5,Black,SKU-000806,Decent,Neutral
+104,"Rugby Plus",1999,BoatProduct,2.5,Blue,SKU-000812,Decent,Neutral
+105,"Rugby Plus",1999,BoatProduct,4.3,Black,SKU-000872,"High Recommended",Positive
+106,"Rugby Plus",1899,BoatProduct,4.3,White,SKU-000878,"High Recommended",Positive
+107,"Aavante Bar 550",1999,BoatProduct,4.3,Black,SKU-000879,"High Recommended",Positive
+108,"Aavante Bar 1500",9499,BoatProduct,4.3,Blue,SKU-000885,"High Recommended",Positive
+109,"Aavante Bar 2000",10999,BoatProduct,4.3,Grey,SKU-000891,"High Recommended",Positive
+110,"Aavante Bar 1250",6999,BoatProduct,4.3,Grey,SKU-000897,"High Recommended",Positive
+111,"Aavante Bar 1400",8999,BoatProduct,4.3,Silver,SKU-000903,"High Recommended",Positive
+112,"Aavante Bar 1800",9999,BoatProduct,4.3,Silver,SKU-000904,"High Recommended",Positive
+113,"Aavante 1600D",9999,BoatProduct,4.3,Grey,SKU-000905,"High Recommended",Positive
+114,"Aavante Bar 900",3499,BoatProduct,4.3,Silver,SKU-000906,"High Recommended",Positive
+115,"Rockerz 558 Sunburn Edition",1999,BoatProduct,4.3,Grey,SKU-000911,"High Recommended",Positive
+116,"Airdopes 383 Sunburn Edition",2499,BoatProduct,4.3,Silver,SKU-000912,"High Recommended",Positive
+117,"Airdopes 131 Captain America Marvel Edition",1599,BoatProduct,4.3,Grey,SKU-000918,"High Recommended",Positive
+118,"Airdopes 131 Iron Man Marvel Edition",1599,BoatProduct,4.3,Black,SKU-000924,"High Recommended",Positive
+119,"Bassheads 172 Sunburn Edition",349,BoatProduct,4.3,Silver,SKU-000930,"High Recommended",Positive
+120,"BassHeads 152 Sunburn Edition",399,BoatProduct,4.3,Black,SKU-000936,"High Recommended",Positive
+121,"Airdopes 381 Sunburn Edition",2999,BoatProduct,4.3,Grey,SKU-000973,"High Recommended",Positive
+122,"Watch Storm - Captain America Marvel Edition",1999,BoatProduct,4.3,Grey,SKU-000974,"High Recommended",Positive
+123,"Airdopes 441 KKR Edition",2499,BoatProduct,4.3,Black,SKU-000975,"High Recommended",Positive
+124,"Stone 190 - Captain America Marvel Edition",1299,BoatProduct,4.3,Black,SKU-000976,"High Recommended",Positive
+125,"Stone SpinX 2.0 Bira Edition",2099,BoatProduct,4.3,Black,SKU-000978,"High Recommended",Positive
+126,"Stone 190 - Iron Man Marvel Edition",1299,BoatProduct,4.3,Silver,SKU-000984,"High Recommended",Positive
+127,"Airdopes 381 Masaba Edition",2299,BoatProduct,4.3,Black,SKU-000987,"High Recommended",Positive
+128,"Stone 190 - Black Panther Marvel Edition",1299,BoatProduct,4.3,Black,SKU-000989,"High Recommended",Positive
+129,"Rockerz 450 - Iron Man Marvel Edition",1799,BoatProduct,4.3,Blue,SKU-000990,"High Recommended",Positive
+130,"Watch Storm - Black Panther Marvel Edition",1999,BoatProduct,4.3,Blue,SKU-000996,"High Recommended",Positive
+131,"Rockerz 550 Sunburn Edition",1499,BoatProduct,4.3,Grey,SKU-000998,"High Recommended",Positive
+132,"Rockerz 600 KKR Edition",2499,BoatProduct,4.3,Silver,SKU-001004,"High Recommended",Positive
+133,"Airdopes 441 - Masaba Edition",1799,BoatProduct,4.3,Blue,SKU-001008,"High Recommended",Positive
+134,"BassHeads 152 KKR Edition",549,BoatProduct,4.3,Black,SKU-001014,"High Recommended",Positive
+135,"Bassheads 172 KKR Edition",499,BoatProduct,4.3,Blue,SKU-001020,"High Recommended",Positive
+136,"Airdopes 131 Batman DC Edition",999,BoatProduct,4.3,Blue,SKU-001021,"High Recommended",Positive
+137,"Airdopes 131",999,BoatProduct,4.3,Grey,SKU-001027,"High Recommended",Positive
+138,"Airdopes 441 Pro Special Batman Edition",2199,BoatProduct,4.3,Blue,SKU-001034,"High Recommended",Positive
+139,"Rockerz 450 Batman DC Edition",1299,BoatProduct,4.3,Black,SKU-001040,"High Recommended",Positive
+140,"Rockerz 450 DC edition",1299,BoatProduct,4.3,Blue,SKU-001046,"High Recommended",Positive
+141,"Rockerz 450",1299,BoatProduct,4.3,Grey,SKU-001050,"High Recommended",Positive
+142,"Misfit T50 Trimmer",989,BoatProduct,4.3,Grey,SKU-001052,"High Recommended",Positive
+143,"Misfit T50 Lite",879,BoatProduct,4.3,Silver,SKU-001058,"High Recommended",Positive
+144,"Misfit T30 Trimmer",769,BoatProduct,4.3,Grey,SKU-001062,"High Recommended",Positive
+145,"Misfit T200 3-in-1 Grooming Kit for Men",1199,BoatProduct,4.3,Blue,SKU-001067,"High Recommended",Positive
+146,"Misfit T200",1699,BoatProduct,4.3,Black,SKU-001069,"High Recommended",Positive
+147,"Misfit T150 Trimmer",1429,BoatProduct,4.3,Blue,SKU-001075,"High Recommended",Positive
+148,Mask,499,BoatProduct,4.3,Grey,SKU-001101,"High Recommended",Positive
+149,"Deuce 330",299,BoatProduct,4.3,Blue,SKU-001107,"High Recommended",Positive
+150,"LTG 500 Indestructible Apple Certified Lightning Cable 2 Meter",899,BoatProduct,4.3,Black,SKU-001111,"High Recommended",Positive
+151,"Micro USB 150 1.5 Meter",499,BoatProduct,4.3,Black,SKU-001117,"High Recommended",Positive
+152,"A400 USB Type C Data Cable",349,BoatProduct,4.3,Grey,SKU-001119,"High Recommended",Positive
+153,"Type C C400",499,BoatProduct,4.3,Silver,SKU-001125,"High Recommended",Positive
+154,"Rugged V3 Micro USB 1.5 Meter",299,BoatProduct,4.3,Grey,SKU-001131,"High Recommended",Positive
+155,"Deuce USB 300",299,BoatProduct,4.3,Blue,SKU-001137,"High Recommended",Positive
+156,"Micro USB 500 Cable 1.5 Meter",279,BoatProduct,4.3,Blue,SKU-001185,"High Recommended",Positive
+157,"LTG 500 Indestructible Apple Certified Lightning Cable 1 Meter",799,BoatProduct,4.3,Grey,SKU-001191,"High Recommended",Positive
+158,"Energyshroom PB10",949,BoatProduct,4.3,Blue,SKU-001197,"High Recommended",Positive
+159,"Energyshroom PB9",949,BoatProduct,4.3,Blue,SKU-001198,"High Recommended",Positive
+160,"Dual Port Rapid Car Charger (Qualcomm Certified)",449,BoatProduct,4.5,Blue,SKU-001200,"Good Quality""",Positive
+161,"Micro USB 100 1 Meter",199,BoatProduct,4.5,Blue,SKU-001206,"Good Quality""",Positive
+162,"Dual QC-PD Port Rapid Car Charger With Power Delivery Cable",699,BoatProduct,4.5,Blue,SKU-001212,"Good Quality""",Positive
+163,"Dual QC-PD Port Rapid Car Charger With Type C Cable",599,BoatProduct,4.5,Blue,SKU-001214,"Good Quality""",Positive
+164,"Wave Select",2099,BoatProduct,4.5,Black,SKU-001220,"Good Quality""",Positive
+165,"Storm Call",1799,BoatProduct,4.5,Black,SKU-001226,"Good Quality""",Positive
+166,"Wave Beat",1499,BoatProduct,4.5,Blue,SKU-001232,"Good Quality""",Positive
+167,"Wave Neo",1499,BoatProduct,4.5,Blue,SKU-001237,"Good Quality""",Positive
+168,"Wave Connect",2999,BoatProduct,4.5,Black,SKU-001243,"Good Quality""",Positive
+169,Xtend?,2699,BoatProduct,4.5,Grey,SKU-001249,"Good Quality""",Positive
+170,"Wave Call",1799,BoatProduct,4.5,Black,SKU-001255,"Good Quality""",Positive
+171,"Wave Lite",1699,BoatProduct,4.5,Silver,SKU-001261,"Good Quality""",Positive
+172,"Watch Flash",1399,BoatProduct,4.5,Blue,SKU-001267,"Good Quality""",Positive
+173,Storm,1499,BoatProduct,4.5,Silver,SKU-001326,"Good Quality""",Positive
+174,"Wave Style",1449,BoatProduct,4.5,Grey,SKU-001332,"Good Quality""",Positive
+175,"Xplorer?? O2",3999,BoatProduct,4.5,Blue,SKU-001338,"Good Quality""",Positive
+176,"Wave Pro",1499,BoatProduct,4.5,Blue,SKU-001344,"Good Quality""",Positive
+177,Blaze,3499,BoatProduct,4.5,Blue,SKU-001350,"Good Quality""",Positive
+178,Matrix,3499,BoatProduct,4.5,Grey,SKU-001356,"Good Quality""",Positive
+179,"Xtend Talk",2999,BoatProduct,4.5,Black,SKU-001362,"Good Quality""",Positive
+180,"Storm Pro",2499,BoatProduct,4.5,Silver,SKU-001368,"Good Quality""",Positive
+181,"Xtend Sport",2499,BoatProduct,4.5,Black,SKU-001374,"Good Quality""",Positive
+182,Mystiq,2499,BoatProduct,4.5,Blue,SKU-001380,"Good Quality""",Positive
+183,"Wave Pro 47",1799,BoatProduct,4.5,Silver,SKU-001385,"Good Quality""",Positive
+184,"TRebel Matrix",4999,BoatProduct,4.5,Grey,SKU-001391,"Good Quality""",Positive
+185,"TRebel Blaze",3999,BoatProduct,4.5,Grey,SKU-001392,"Good Quality""",Positive
+186,"TRebel Xtend?",3499,BoatProduct,4.5,Blue,SKU-001398,"Good Quality""",Positive
+187,"Wave Play",1999,BoatProduct,4.5,Grey,SKU-001401,"Good Quality""",Positive
+188,"Watch Storm - Iron Man Marvel Edition",1999,BoatProduct,4.5,Grey,SKU-001402,"Good Quality""",Positive
+189,"Wave Ultima",2999,BoatProduct,4.5,Blue,SKU-001406,"Good Quality""",Positive
+190,"TRebel Watch Straps",399,BoatProduct,4.5,Silver,SKU-001411,"Good Quality""",Positive
+191,"Wave Voice",2699,BoatProduct,4.5,Blue,SKU-001412,"Good Quality""",Positive
+192,"Storm RTL",2999,BoatProduct,4.5,Silver,SKU-001413,"Good Quality""",Positive
+193,"TRebel Rockerz 333",1599,BoatProduct,4.5,Silver,SKU-001423,"Good Quality""",Positive
+194,"TRebel Airdopes 381",2199,BoatProduct,4.5,Silver,SKU-001429,"Good Quality""",Positive
+195,"TRebel Airdopes 402",1999,BoatProduct,4.5,Silver,SKU-001435,"Good Quality""",Positive
+196,"TRebel BassHeads 100",399,BoatProduct,4.5,Blue,SKU-001441,"Good Quality""",Positive
+197,"TRebel Rockerz 450",1499,BoatProduct,4.5,Grey,SKU-001450,"Good Quality""",Positive
+198,"TRebel BassHeads 103",499,BoatProduct,4.5,Silver,SKU-001451,"Good Quality""",Positive
+199,"TRebel Airdopes 141",1499,BoatProduct,4.5,Grey,SKU-001457,"Good Quality""",Positive
+200,"TRebel BassHeads 102",399,BoatProduct,4.5,Blue,SKU-001509,"Good Quality""",Positive
+201,"TRebel Airdopes 171 - Wireless Earbuds with 6mm Drivers, 380mAh Charging cum Carrying Case, IPX4 Sweat and Water Resistance, 13H nonstop Music",1799,BoatProduct,4.5,Silver,SKU-001515,"Good Quality""",Positive
+202,"TRebel Rockerz 330 Pro",1799,BoatProduct,4.5,Black,SKU-001519,"Good Quality""",Positive
+203,"Trebel Rockerz 255 Pro+",1599,BoatProduct,4.5,Blue,SKU-001522,"Good Quality""",Positive
+204,"TRebel Airdopes 181",1599,BoatProduct,4.5,Grey,SKU-001528,"Good Quality""",Positive
+205,"TRebel Rockerz 235 V2",1199,BoatProduct,4.5,Black,SKU-001533,"Good Quality""",Positive
+206,"TRebel Airdopes 131",1299,BoatProduct,4.5,Grey,SKU-001539,"Good Quality""",Positive
+207,"TRebel BassHeads 152",499,BoatProduct,4.5,Blue,SKU-001545,"Good Quality""",Positive
+208,"TRebel Airdopes 441 Pro",2999,BoatProduct,4.5,Black,SKU-001551,"Good Quality""",Positive
+209,"TRebel Rockerz 255 Pro",1499,BoatProduct,5,Grey,SKU-001556,"Good Quality""",Positive
+210,"Bassheads 900",849,BoatProduct,3.6,Silver,SKU-001561,Excellent,Positive
+211,"BassHeads 242",599,BoatProduct,3.6,Grey,SKU-001567,Excellent,Positive
+212,"TRebel BassHeads 242",599,BoatProduct,3.6,Silver,SKU-001573,Excellent,Positive
+213,"BassHeads 152",449,BoatProduct,3.6,Black,SKU-001579,Excellent,Positive
+214,"BassHeads 172",499,BoatProduct,3.6,Blue,SKU-001585,Excellent,Positive
+215,"BassHeads 100",399,BoatProduct,3.6,Blue,SKU-001591,Excellent,Positive
+216,"BassHeads 102",449,BoatProduct,3.6,Grey,SKU-001597,Excellent,Positive
+217,"BassHeads 103",499,BoatProduct,3.6,Grey,SKU-001603,Excellent,Positive
+218,"BassHeads 220",699,BoatProduct,3.6,Silver,SKU-001609,Excellent,Positive
+219,"BassHeads 104",449,BoatProduct,3.6,Blue,SKU-001681,Excellent,Positive
+220,"Bassheads 192 - Make in India",449,BoatProduct,3.6,Black,SKU-001699,Excellent,Positive
+221,"BassHeads 225",399,BoatProduct,3.6,Blue,SKU-001700,Excellent,Positive
+222,"BassHeads 228",699,BoatProduct,3.6,Black,SKU-001706,Excellent,Positive
+223,"BassHeads 110",449,BoatProduct,3.6,Silver,SKU-001707,Excellent,Positive
+224,"Airdopes 131 PRO",1199,BoatProduct,3.6,Silver,SKU-001721,Excellent,Positive
+225,"Airdopes 411 ANC",2499,BoatProduct,3.6,Blue,SKU-001727,Excellent,Positive
+226,"Airdopes 121 PRO",1499,BoatProduct,3.6,Silver,SKU-001733,Excellent,Positive
+227,"Airdopes 141",1499,BoatProduct,3.6,Black,SKU-001739,Excellent,Positive
+228,"Airdopes 121 v2",1299,BoatProduct,3.6,Grey,SKU-001745,Excellent,Positive
+229,"Airdopes 402",1499,BoatProduct,3.6,Grey,SKU-001751,Excellent,Positive
+230,"Airdopes 115",999,BoatProduct,3.6,Black,SKU-001757,Excellent,Positive
+231,"Airdopes 161",1381,BoatProduct,3.6,Blue,SKU-001829,Excellent,Positive
+232,"Airdopes 441",1999,BoatProduct,3.6,Silver,SKU-001835,Excellent,Positive
+233,"Airdopes 141 Pro",1699,BoatProduct,3.6,Grey,SKU-001841,Excellent,Positive
+234,"Airdopes 381",1999,BoatProduct,3.6,Black,SKU-001847,Excellent,Positive
+235,"Airdopes 413 ANC",2499,BoatProduct,3.6,Grey,SKU-001853,Excellent,Positive
+236,"Airdopes 138",1499,BoatProduct,3.6,Black,SKU-001859,Excellent,Positive
+237,"Airdopes 171",1499,BoatProduct,3.6,Blue,SKU-001877,Excellent,Positive
+238,"Airdopes 181",1599,BoatProduct,3.6,Grey,SKU-001883,Excellent,Positive
+239,"Airdopes 451v2",2999,BoatProduct,3.6,Blue,SKU-001889,Excellent,Positive
+240,"Airdopes 601 ANC",2999,BoatProduct,3.6,Silver,SKU-001901,Excellent,Positive
+241,"Airdopes 441 Pro",2999,BoatProduct,3.6,Black,SKU-001904,Excellent,Positive
+242,"Airdopes 500 ANC",4499,BoatProduct,3.6,Black,SKU-001915,Excellent,Positive
+243,"Rockerz 235 V2",1183,BoatProduct,3.6,Blue,SKU-001925,Excellent,Positive
+244,"Rockerz 255 Pro+",1299,BoatProduct,3.6,Blue,SKU-001931,Excellent,Positive
+245,"Rockerz 245 V2",1299,BoatProduct,3.6,Silver,SKU-001937,Excellent,Positive
+246,"Rockerz 330",1299,BoatProduct,3.6,Silver,SKU-001943,Excellent,Positive
+247,"Rockerz 333",1399,BoatProduct,3.6,Blue,SKU-001949,Excellent,Positive
+248,"Rockerz 255",1299,BoatProduct,3.6,Grey,SKU-001955,Excellent,Positive
+249,"Rockerz 550",1999,BoatProduct,3.6,Silver,SKU-001961,Excellent,Positive
+250,"Rockerz 255 Pro",1399,BoatProduct,3.6,Blue,SKU-001967,Excellent,Positive
+251,"Rockerz 103 Pro",999,BoatProduct,3.6,Grey,SKU-001973,Excellent,Positive
+252,"Rockerz 255R",1299,BoatProduct,3.6,Grey,SKU-002039,Excellent,Positive
+253,"Rockerz 333 Pro",1799,BoatProduct,3.6,Silver,SKU-002045,Excellent,Positive
+254,"Rockerz 260",1299,BoatProduct,3.6,Black,SKU-002051,Excellent,Positive
+255,"Rockerz 335",1699,BoatProduct,3.6,Silver,SKU-002057,Excellent,Positive
+256,"Rockerz 510",1299,BoatProduct,3.6,Black,SKU-002063,Excellent,Positive
+257,"Rockerz 370",1199,BoatProduct,3.6,Grey,SKU-002069,Excellent,Positive
+258,"Rockerz 255 Neo",1299,BoatProduct,3.6,Grey,SKU-002075,Excellent,Positive
+259,"Rockerz 261",849,BoatProduct,3.6,Black,SKU-002081,Excellent,Positive
+260,"Rockerz 333 ANC",1899,BoatProduct,3.6,Grey,SKU-002087,Excellent,Positive
+261,"Rockerz 385 V2",1499,BoatProduct,3.6,Black,SKU-002093,Excellent,Positive
+262,"Rockerz 235 Pro",999,BoatProduct,3.6,Blue,SKU-002099,Excellent,Positive
+263,"Rockerz 255F",1299,BoatProduct,3.6,Silver,SKU-002105,Excellent,Positive
+264,"Rockerz 260 v1",1199,BoatProduct,3.6,Blue,SKU-002111,Excellent,Positive
+265,"Rockerz 330 Pro",1799,BoatProduct,3.6,Silver,SKU-002117,Excellent,Positive
+266,"Rockerz 400",1499,BoatProduct,3.6,Blue,SKU-002123,Excellent,Positive
+267,"Rockerz 245 Pro",1299,BoatProduct,3.6,Silver,SKU-002129,Excellent,Positive
+268,"Rockerz 205 Pro",999,BoatProduct,3.6,Grey,SKU-002135,Excellent,Positive
+269,"Rockerz 255 Pro Made in India",1399,BoatProduct,3.6,Grey,SKU-002145,Excellent,Positive
+270,"Rockerz 330 ANC",1999,BoatProduct,3.6,Blue,SKU-002157,Excellent,Positive
+271,"Rockerz 600",1699,BoatProduct,3.6,Blue,SKU-002163,Excellent,Positive
+272,"Rockerz 375",999,BoatProduct,3.6,Blue,SKU-002169,Excellent,Positive
+273,"Rockerz 518",1599,BoatProduct,3.6,Silver,SKU-002175,Excellent,Positive
+274,"Nirvanaa 751 ANC",3999,BoatProduct,3.6,Blue,SKU-002181,Excellent,Positive
+275,"Rockerz 450R",1499,BoatProduct,3.6,Grey,SKU-002187,Excellent,Positive
+276,"Rockerz 425",1499,BoatProduct,3.6,Grey,SKU-002193,Excellent,Positive
+277,"Rockerz 255 ARC",1299,BoatProduct,3.6,Silver,SKU-002205,Excellent,Positive
+279,"Rockerz 558 Sunburn Edition",1999,"Limited Edition",3.6,Platinum,SKU-002213,Excellent,Positive
+280,"Airdopes 383 Sunburn Edition",2499,"Limited Edition",3.6,"Special Print",SKU-002214,Excellent,Positive
+281,"Airdopes 131 Captain America Marvel Edition",1599,"Limited Edition",3.6,"Special Print",SKU-002220,Excellent,Positive
+282,"Airdopes 131 Iron Man Marvel Edition",1599,"Limited Edition",3.6,Black,SKU-002226,Excellent,Positive
+283,"Bassheads 172 Sunburn Edition",349,"Limited Edition",3.6,Black,SKU-002232,Excellent,Positive
+284,"BassHeads 152 Sunburn Edition",399,"Limited Edition",3.2,Gold,SKU-002238,"Loved It",Positive
+285,"Airdopes 381 Sunburn Edition",2999,"Limited Edition",4.5,Platinum,SKU-002275,"Good Quality""",Positive
+286,"Watch Storm - Captain America Marvel Edition",1999,"Limited Edition",4.6,"Special Print",SKU-002276,"Good Quality""",Positive
+287,"Airdopes 441 KKR Edition",2499,"Limited Edition",4.3,Black,SKU-002277,"High Recommended",Positive
+288,"Stone 190 - Captain America Marvel Edition",1299,"Limited Edition",4.7,Gold,SKU-002278,"Good Quality""",Positive
+289,"Stone SpinX 2.0 Bira Edition",2099,"Limited Edition",4.3,Gold,SKU-002280,"High Recommended",Positive
+290,"Stone 190 - Iron Man Marvel Edition",1299,"Limited Edition",4.8,Gold,SKU-002286,"Good Quality""",Positive
+291,"Airdopes 381 Masaba Edition",2299,"Limited Edition",3.4,Black,SKU-002289,"Loved It",Positive
+292,"Stone 190 - Black Panther Marvel Edition",1299,"Limited Edition",3.5,Black,SKU-002291,Excellent,Positive
+293,"Rockerz 450 - Iron Man Marvel Edition",1799,"Limited Edition",3.9,Gold,SKU-002292,Excellent,Positive
+294,"Watch Storm - Black Panther Marvel Edition",1999,"Limited Edition",3.6,Gold,SKU-002298,Excellent,Positive
+295,"Rockerz 550 Sunburn Edition",1499,"Limited Edition",3.6,Black,SKU-002300,Excellent,Positive
+296,"Rockerz 600 KKR Edition",2499,"Limited Edition",3.6,Black,SKU-002306,Excellent,Positive
+297,"Airdopes 441 - Masaba Edition",1799,"Limited Edition",3.6,Gold,SKU-002310,Excellent,Positive
+298,"BassHeads 152 KKR Edition",549,"Limited Edition",4.9,Platinum,SKU-002316,"Good Quality""",Positive
+299,"Bassheads 172 KKR Edition",499,"Limited Edition",4.9,Black,SKU-002322,"Good Quality""",Positive
+300,"Airdopes 131 Batman DC Edition",999,"Limited Edition",4.9,Black,SKU-002323,"Good Quality""",Positive
+301,"Airdopes 131",999,"Limited Edition",4.9,Platinum,SKU-002329,"Good Quality""",Positive
+302,"Airdopes 441 Pro Special Batman Edition",2199,"Limited Edition",4.9,"Special Print",SKU-002336,"Good Quality""",Positive
+303,"Rockerz 450 Batman DC Edition",1299,"Limited Edition",4.9,Gold,SKU-002342,"Good Quality""",Positive
+304,"Rockerz 450 DC edition",1299,"Limited Edition",4.9,"Special Print",SKU-002348,"Good Quality""",Positive
+305,"Rockerz 450",1299,"Limited Edition",4.9,"Special Print",SKU-002352,"Good Quality""",Positive
+306,"Misfit T50 Trimmer",989,Misfit,4.9,Silver,SKU-002353,"Good Quality""",Positive
+307,"Misfit T50 Lite",879,Misfit,4.9,Black,SKU-002359,"Good Quality""",Positive
+308,"Misfit T30 Trimmer",769,Misfit,4.9,Black,SKU-002363,"Good Quality""",Positive
+309,"Misfit T200 3-in-1 Grooming Kit for Men",1199,Misfit,4.9,Silver,SKU-002368,"Good Quality""",Positive
+310,"Misfit T200",1699,Misfit,4.9,Black,SKU-002370,"Good Quality""",Positive
+311,"Misfit T150 Trimmer",1429,Misfit,3.6,Black,SKU-002376,Excellent,Positive
+312,Mask,499,"Mobile Accessories",3.6,White,SKU-002401,Excellent,Positive
+313,"Deuce 330",299,"Mobile Accessories",3.6,Black,SKU-002407,Excellent,Positive
+314,"LTG 500 Indestructible Apple Certified Lightning Cable 2 Meter",899,"Mobile Accessories",3.6,Grey,SKU-002411,Excellent,Positive
+315,"Micro USB 150 1.5 Meter",499,"Mobile Accessories",3.6,Transparent,SKU-002417,Excellent,Positive
+316,"A400 USB Type C Data Cable",349,"Mobile Accessories",3.6,Grey,SKU-002419,Excellent,Positive
+317,"Type C C400",499,"Mobile Accessories",3.6,Grey,SKU-002425,Excellent,Positive
+318,"Rugged V3 Micro USB 1.5 Meter",299,"Mobile Accessories",3.6,Transparent,SKU-002431,Excellent,Positive
+319,"Deuce USB 300",299,"Mobile Accessories",3.6,Black,SKU-002437,Excellent,Positive
+320,"Micro USB 500 Cable 1.5 Meter",279,"Mobile Accessories",3.6,Transparent,SKU-002485,Excellent,Positive
+321,"LTG 500 Indestructible Apple Certified Lightning Cable 1 Meter",799,"Mobile Accessories",3.6,White,SKU-002491,Excellent,Positive
+322,"Energyshroom PB10",949,"Mobile Accessories",3.6,Black,SKU-002497,Excellent,Positive
+323,"Energyshroom PB9",949,"Mobile Accessories",3.6,Grey,SKU-002498,Excellent,Positive
+324,"Dual Port Rapid Car Charger (Qualcomm Certified)",449,"Mobile Accessories",3.6,Transparent,SKU-002500,Excellent,Positive
+325,"Micro USB 100 1 Meter",199,"Mobile Accessories",3.6,White,SKU-002506,Excellent,Positive
+326,"Dual QC-PD Port Rapid Car Charger With Power Delivery Cable",699,"Mobile Accessories",3.6,Grey,SKU-002512,Excellent,Positive
+327,"Dual QC-PD Port Rapid Car Charger With Type C Cable",599,"Mobile Accessories",3.6,Transparent,SKU-002514,Excellent,Positive
+328,"Wave Select",2099,"smart watches",3.6,Grey,SKU-002519,Excellent,Positive
+329,"Storm Call",1799,"smart watches",3.6,Green,SKU-002525,Excellent,Positive
+330,"Wave Beat",1499,"smart watches",3.6,Silver,SKU-002531,Excellent,Positive
+331,"Wave Neo",1499,"smart watches",3.6,"Rose Gold",SKU-002536,Excellent,Positive
+332,"Wave Connect",2999,"smart watches",3.6,"Rose Gold",SKU-002542,Excellent,Positive
+333,Xtend?,2699,"smart watches",3.6,Teal,SKU-002548,Excellent,Positive
+334,"Wave Call",1799,"smart watches",3.6,Red,SKU-002554,Excellent,Positive
+335,"Wave Lite",1699,"smart watches",3.6,Grey,SKU-002560,Excellent,Positive
+336,"Watch Flash",1399,"smart watches",3.6,Green,SKU-002566,Excellent,Positive
+337,Storm,1499,"smart watches",3.6,Red,SKU-002625,Excellent,Positive
+338,"Wave Style",1449,"smart watches",3.6,Green,SKU-002631,Excellent,Positive
+339,"Xplorer?? O2",3999,"smart watches",3.6,Grey,SKU-002637,Excellent,Positive
+340,"Wave Pro",1499,"smart watches",4.5,Green,SKU-002643,"Good Quality""",Positive
+341,Blaze,3499,"smart watches",4.6,Grey,SKU-002649,"Good Quality""",Positive
+342,Matrix,3499,"smart watches",4.7,Silver,SKU-002655,"Good Quality""",Positive
+343,"Xtend Talk",2999,"smart watches",4.3,Black,SKU-002661,"High Recommended",Positive
+344,"Storm Pro",2499,"smart watches",4.4,Teal,SKU-002667,"High Recommended",Positive
+345,"Xtend Sport",2499,"smart watches",4.5,"Rose Gold",SKU-002673,"Good Quality""",Positive
+346,Mystiq,2499,"smart watches",4.3,Silver,SKU-002679,"High Recommended",Positive
+347,"Wave Pro 47",1799,"smart watches",4.2,Teal,SKU-002684,"High Recommended",Positive
+348,"TRebel Matrix",4999,"smart watches",4.1,Blue,SKU-002690,"High Recommended",Positive
+349,"TRebel Blaze",3999,"smart watches",3.7,Grey,SKU-002691,Excellent,Positive
+350,"TRebel Xtend?",3499,"smart watches",3.9,Red,SKU-002697,Excellent,Positive
+351,"Wave Play",1999,"smart watches",4.5,Blue,SKU-002700,"Good Quality""",Positive
+352,"Watch Storm - Iron Man Marvel Edition",1999,"smart watches",3.4,Green,SKU-002701,"Loved It",Positive
+353,"Watch Storm - Black Panther Marvel Edition",1999,"smart watches",3.5,Red,SKU-002703,Excellent,Positive
+354,"Wave Ultima",2999,"smart watches",3.6,Green,SKU-002705,Excellent,Positive
+355,"Watch Storm - Captain America Marvel Edition",1999,"smart watches",3.7,Black,SKU-002709,Excellent,Positive
+356,"TRebel Watch Straps",399,"smart watches",3.8,Grey,SKU-002710,Excellent,Positive
+357,"Wave Voice",2699,"smart watches",4.5,Green,SKU-002711,"Good Quality""",Positive
+358,"Storm RTL",2999,"smart watches",4.2,Black,SKU-002712,"High Recommended",Positive
+359,"TRebel Blaze",3999,TRebel,4,Black,SKU-002715,"High Recommended",Positive
+360,"TRebel Rockerz 333",1599,TRebel,4.3,Blue,SKU-002721,"High Recommended",Positive
+361,"TRebel Airdopes 381",2199,TRebel,3.7,Black,SKU-002727,Excellent,Positive
+362,"TRebel Airdopes 402",1999,TRebel,3.9,White,SKU-002733,Excellent,Positive
+363,"TRebel BassHeads 100",399,TRebel,3.8,Purple,SKU-002739,Excellent,Positive
+364,"TRebel Xtend?",3499,TRebel,3.2,Purple,SKU-002745,"Loved It",Positive
+365,"TRebel Rockerz 450",1499,TRebel,3.2,White,SKU-002748,"Loved It",Positive
+366,"TRebel BassHeads 103",499,TRebel,3.2,Black,SKU-002749,"Loved It",Positive
+367,"TRebel Airdopes 141",1499,TRebel,3.2,Purple,SKU-002755,"Loved It",Positive
+368,"TRebel BassHeads 102",399,TRebel,3.2,White,SKU-002807,"Loved It",Positive
+369,"TRebel Airdopes 171 - Wireless Earbuds with 6mm Drivers, 380mAh Charging cum Carrying Case, IPX4 Sweat and Water Resistance, 13H nonstop Music",1799,TRebel,3.2,Blue,SKU-002813,"Loved It",Positive
+370,"TRebel Matrix",4999,TRebel,3.2,Purple,SKU-002816,"Loved It",Positive
+371,"TRebel Rockerz 330 Pro",1799,TRebel,3.2,Purple,SKU-002817,"Loved It",Positive
+372,"Trebel Rockerz 255 Pro+",1599,TRebel,3.2,Black,SKU-002820,"Loved It",Positive
+373,"TRebel Airdopes 181",1599,TRebel,3.2,Purple,SKU-002826,"Loved It",Positive
+374,"TRebel Watch Straps",399,TRebel,3.2,Purple,SKU-002830,"Loved It",Positive
+375,"TRebel Rockerz 235 V2",1199,TRebel,3.2,Purple,SKU-002831,"Loved It",Positive
+376,"TRebel Airdopes 131",1299,TRebel,3.2,White,SKU-002837,"Loved It",Positive
+377,"TRebel BassHeads 152",499,TRebel,3.2,Black,SKU-002843,"Loved It",Positive
+378,"TRebel Airdopes 441 Pro",2999,TRebel,3.2,Pink,SKU-002849,"Loved It",Positive
+379,"TRebel Rockerz 255 Pro",1499,TRebel,3.2,White,SKU-002854,"Loved It",Positive

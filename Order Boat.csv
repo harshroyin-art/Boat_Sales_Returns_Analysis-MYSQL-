@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,shipped_date,delivery_date,payment_method,shipping_address,order_status,Order_Channel
+1,4460,2024-01-24,2024-01-25,2024-01-30,"Credit Card","115, Indore, Madhya Pradesh - 452016",Shipped,Amazon
+2,9916,2025-05-08,2025-05-10,2025-05-14,UPI,"188, Jaipur, Rajasthan - 302047",Delivered,"boAt Website"
+3,7974,2024-02-07,2024-02-08,2024-02-15,"Debit Card","96, Kanpur, Uttar Pradesh - 208018",Delivered,"Retail Partner"
+4,6995,2024-09-05,2024-09-05,2024-09-07,UPI,"69, Lucknow, Uttar Pradesh - 226013",Cancelled,Flipkart
+5,2667,2025-04-09,2025-04-10,2025-04-17,UPI,"32, Ahmedabad, Gujarat - 380019",Delivered,"boAt App"
+6,5453,2024-10-11,2024-10-11,2024-10-13,"Credit Card","163, Surat, Gujarat - 395021",Delivered,"Offline Store"
+7,8340,2024-06-17,2024-06-17,2024-06-27,"Cash on Delivery","120, Kanpur, Uttar Pradesh - 208085",Delivered,"Quick Commerce"
+8,9698,2025-07-11,2025-07-12,2025-07-16,"Cash on Delivery","70, Kolkata, West Bengal - 700054",Delivered,"Social Media"
+9,551,2025-01-10,2025-01-10,2025-01-13,Wallet,"89, Gurugram, Haryana - 122003",Delivered,"boAt Website"
+10,1032,2024-02-19,2024-02-20,2024-02-25,Wallet,"183, Noida, Uttar Pradesh - 201312",Shipped,"Retail Partner"
+11,1366,2025-07-23,2025-07-24,2025-07-26,"Cash on Delivery","52, Patna, Bihar - 800006",Delivered,"Offline Store"
+12,4035,2024-05-11,2024-05-12,2024-05-14,UPI,"134, Vadodara, Gujarat - 390016",Delivered,"Quick Commerce"
+13,2025,2024-02-13,2024-02-15,2024-02-20,Wallet,"162, Ahmedabad, Gujarat - 380006",Delivered,Amazon
+14,1315,2024-03-13,2024-03-14,2024-03-16,UPI,"159, Jaipur, Rajasthan - 302067",Delivered,Flipkart
+15,5255,2024-07-25,2024-07-27,2024-08-01,"Debit Card","81, New Delhi, Delhi - 110038",Delivered,Amazon
+16,5778,2025-03-30,2025-03-31,2025-04-03,UPI,"56, Kolkata, West Bengal - 700030",Returned,"Quick Commerce"
+17,11224,2024-08-29,2024-08-30,2024-09-03,Wallet,"184, Pune, Maharashtra - 411094",Delivered,Flipkart
+18,1230,2024-01-27,2024-01-27,2024-01-31,"Credit Card","58, Patna, Bihar - 800045",Delivered,"Quick Commerce"
+19,8422,2024-09-18,2024-09-20,2024-09-22,Wallet,"133, Noida, Uttar Pradesh - 201348",Returned,Flipkart
+20,4139,2024-04-29,2024-04-29,2024-05-04,UPI,"36, Bhopal, Madhya Pradesh - 462001",Delivered,Amazon
+21,5563,2024-03-21,2024-03-21,2024-03-24,UPI,"1, Lucknow, Uttar Pradesh - 226037",Delivered,"Quick Commerce"
+22,3514,2025-05-29,2025-06-05,2025-06-08,UPI,"184, Ahmedabad, Gujarat - 380088",Delivered,Amazon
+23,5501,2024-05-04,2024-05-05,2024-05-09,"Credit Card","21, Ahmedabad, Gujarat - 380041",Delivered,Flipkart
+24,5593,2025-06-08,2025-06-08,2025-06-10,UPI,"5, Surat, Gujarat - 395028",Delivered,"Offline Store"
+25,3003,2024-08-05,2024-08-07,2024-08-13,UPI,"27, Hyderabad, Telangana - 500082",Shipped,"Quick Commerce"
+26,2681,2025-08-21,2025-08-21,2025-08-23,Wallet,"154, Nagpur, Maharashtra - 440085",Delivered,Amazon
+27,6996,2025-02-05,2025-02-05,2025-02-12,"Cash on Delivery","143, Kanpur, Uttar Pradesh - 208040",Delivered,Flipkart
+28,11202,2024-12-07,2024-12-07,2024-12-10,"Debit Card","21, Noida, Uttar Pradesh - 201345",Delivered,"Offline Store"
+29,3808,2025-07-17,2025-07-17,2025-07-22,Wallet,"164, Pune, Maharashtra - 411081",Delivered,"Quick Commerce"
+30,3453,2024-06-28,2024-06-28,2024-07-04,UPI,"116, Ahmedabad, Gujarat - 380037",Cancelled,Amazon
+31,3213,2025-02-18,2025-02-18,2025-02-21,"Credit Card","14, Gurugram, Haryana - 122077",Cancelled,Flipkart
+32,5597,2025-03-10,2025-03-13,2025-03-16,"Debit Card","106, Chennai, Tamil Nadu - 600057",Returned,Amazon
+33,6821,2025-07-26,2025-07-26,2025-08-01,"Debit Card","50, Nagpur, Maharashtra - 440007",Delivered,Flipkart
+34,10852,2024-11-25,2024-11-30,2024-12-03,UPI,"125, Hyderabad, Telangana - 500027",Delivered,Amazon
+35,7081,2025-03-08,2025-03-08,2025-03-11,UPI,"130, Gurugram, Haryana - 122028",Delivered,Flipkart
+36,6797,2024-03-15,2024-03-20,2024-03-24,"Credit Card","175, Vadodara, Gujarat - 390006",Shipped,Amazon
+37,11452,2025-06-12,2025-06-15,2025-06-20,UPI,"176, Mumbai, Maharashtra - 400084",Delivered,Flipkart
+38,1338,2024-09-20,2024-09-21,2024-09-26,UPI,"96, Hyderabad, Telangana - 500034",Delivered,Amazon
+39,7802,2024-12-28,2024-12-31,2025-01-10,"Debit Card","10, Noida, Uttar Pradesh - 201374",Delivered,"Quick Commerce"
+40,6656,2024-01-20,2024-01-22,2024-01-26,"Credit Card","158, Jaipur, Rajasthan - 302096",Delivered,"Quick Commerce"
+41,705,2024-10-21,2024-10-26,2024-11-01,"Cash on Delivery","62, New Delhi, Delhi - 110008",Delivered,"Quick Commerce"
+42,9024,2024-04-13,2024-04-14,2024-04-20,"Cash on Delivery","66, Lucknow, Uttar Pradesh - 226029",Cancelled,"Quick Commerce"
+43,10713,2025-08-01,2025-08-08,2025-08-13,"Credit Card","17, Bhopal, Madhya Pradesh - 462082",Cancelled,"Offline Store"
+44,8771,2025-02-21,2025-02-24,2025-02-27,Wallet,"19, Lucknow, Uttar Pradesh - 226010",Delivered,"Offline Store"
+45,7298,2025-06-18,2025-06-18,2025-06-25,"Credit Card","171, Jaipur, Rajasthan - 302058",Returned,"Offline Store"
+46,5807,2025-03-21,2025-03-23,2025-03-28,"Credit Card","26, Indore, Madhya Pradesh - 452034",Delivered,"Offline Store"
+47,10674,2025-04-26,2025-04-28,2025-05-02,UPI,"125, Bengaluru, Karnataka - 560057",Delivered,Flipkart
+48,984,2024-06-10,2024-06-17,2024-06-22,"Debit Card","172, Hyderabad, Telangana - 500046",Delivered,Flipkart
+49,2638,2024-01-22,2024-01-25,2024-01-28,UPI,"61, Chennai, Tamil Nadu - 600024",Cancelled,Amazon
+50,11546,2024-07-10,2024-07-10,2024-07-12,UPI,"13, Vadodara, Gujarat - 390067",Delivered,Amazon
+51,3029,2025-04-10,2025-04-12,2025-04-17,"Debit Card","32, Noida, Uttar Pradesh - 201315",Delivered,Amazon
+52,4247,2024-01-03,2024-01-04,2024-01-06,"Credit Card","176, Pune, Maharashtra - 411086",Delivered,Amazon
+53,10514,2025-04-19,2025-04-20,2025-04-24,"Credit Card","131, Patna, Bihar - 800063",Delivered,Flipkart
+54,4622,2024-09-29,2024-09-29,2024-10-03,UPI,"142, Vadodara, Gujarat - 390025",Delivered,Flipkart
+55,3436,2024-09-20,2024-09-22,2024-09-25,"Cash on Delivery","130, Noida, Uttar Pradesh - 201386",Delivered,"Quick Commerce"
+56,2805,2024-09-01,2024-09-02,2024-09-05,"Credit Card","64, Noida, Uttar Pradesh - 201378",Delivered,"Quick Commerce"
+57,11129,2025-02-26,2025-02-27,2025-03-02,"Credit Card","160, Kanpur, Uttar Pradesh - 208058",Delivered,"Quick Commerce"
+58,6692,2024-12-10,2024-12-12,2024-12-17,"Cash on Delivery","75, Indore, Madhya Pradesh - 452018",Delivered,"Quick Commerce"
+59,7980,2025-04-12,2025-04-13,2025-04-16,UPI,"58, Chennai, Tamil Nadu - 600076",Delivered,"Quick Commerce"
+60,2414,2024-12-04,2024-12-08,2024-12-10,UPI,"87, Vadodara, Gujarat - 390040",Delivered,"Offline Store"
+61,9494,2024-05-13,2024-05-15,2024-05-19,"Credit Card","186, Noida, Uttar Pradesh - 201344",Delivered,"Offline Store"
+62,10995,2024-09-02,2024-09-06,2024-09-11,"Credit Card","6, Gurugram, Haryana - 122068",Delivered,"Offline Store"
+63,8658,2025-04-24,2025-04-25,2025-04-28,"Credit Card","150, Hyderabad, Telangana - 500031",Delivered,Amazon
+64,173,2024-03-30,2024-03-30,2024-04-02,UPI,"157, Hyderabad, Telangana - 500084",Shipped,"Quick Commerce"
+65,1422,2024-06-19,2024-06-23,2024-06-26,UPI,"165, Indore, Madhya Pradesh - 452024",Delivered,Amazon
+66,5109,2024-05-11,2024-05-15,2024-05-20,"Cash on Delivery","149, Jaipur, Rajasthan - 302096",Delivered,Amazon
+67,11667,2024-11-26,2024-11-26,2024-11-28,"Credit Card","184, Gurugram, Haryana - 122039",Delivered,Amazon
+68,3044,2025-01-19,2025-01-20,2025-01-24,UPI,"83, Chennai, Tamil Nadu - 600039",Shipped,Amazon
+69,2927,2024-09-11,2024-09-13,2024-09-15,Wallet,"156, Surat, Gujarat - 395011",Delivered,Amazon
+70,11937,2024-06-04,2024-06-05,2024-06-08,UPI,"168, Gurugram, Haryana - 122076",Delivered,Amazon
+71,7312,2025-08-18,2025-08-23,2025-08-26,"Debit Card","181, Kolkata, West Bengal - 700035",Shipped,Amazon
+72,716,2025-05-18,2025-05-20,2025-05-25,Wallet,"197, Hyderabad, Telangana - 500030",Delivered,Amazon
+73,11709,2024-06-18,2024-06-21,2024-06-25,UPI,"192, Mumbai, Maharashtra - 400049",Delivered,Amazon
+74,5643,2025-05-19,2025-05-20,2025-05-23,"Debit Card","148, Patna, Bihar - 800032",Delivered,Amazon
+75,7144,2025-02-07,2025-02-09,2025-02-19,"Credit Card","163, Bhopal, Madhya Pradesh - 462096",Delivered,Amazon
+76,6755,2024-04-19,2024-04-20,2024-04-24,UPI,"64, Nagpur, Maharashtra - 440051",Delivered,Amazon
+77,11873,2024-03-14,2024-03-16,2024-03-19,UPI,"104, Surat, Gujarat - 395062",Delivered,Amazon
+78,4224,2025-03-06,2025-03-07,2025-03-09,UPI,"39, Bhopal, Madhya Pradesh - 462036",Delivered,Amazon
+79,2188,2025-01-10,2025-01-11,2025-01-18,UPI,"19, Vadodara, Gujarat - 390058",Delivered,Amazon
+80,6317,2025-02-16,2025-02-20,2025-02-26,UPI,"156, Ahmedabad, Gujarat - 380071",Returned,Flipkart
+81,8166,2025-06-22,2025-06-22,2025-06-25,"Credit Card","40, Kolkata, West Bengal - 700025",Delivered,Flipkart
+82,8496,2025-09-05,2025-09-07,2025-09-12,"Credit Card","107, Surat, Gujarat - 395009",Delivered,Flipkart
+83,9680,2024-03-11,2024-03-11,2024-03-15,"Credit Card","134, Chennai, Tamil Nadu - 600049",Delivered,Amazon
+84,7505,2024-11-24,2024-11-26,2024-11-29,Wallet,"163, Vadodara, Gujarat - 390098",Delivered,Amazon
+85,8515,2024-02-13,2024-02-14,2024-02-17,Wallet,"86, New Delhi, Delhi - 110071",Delivered,Amazon
+86,9209,2025-05-08,2025-05-12,2025-05-16,UPI,"134, Nagpur, Maharashtra - 440046",Delivered,Amazon
+87,8781,2024-06-27,2024-06-28,2024-07-01,UPI,"152, Surat, Gujarat - 395039",Delivered,Amazon
+88,727,2024-08-23,2024-08-24,2024-08-26,Wallet,"100, Bhopal, Madhya Pradesh - 462049",Delivered,"boAt Website"
+89,11779,2025-03-21,2025-03-23,2025-03-25,UPI,"143, Noida, Uttar Pradesh - 201352",Delivered,"boAt Website"
+90,8521,2025-07-29,2025-07-30,2025-08-03,"Cash on Delivery","17, Chennai, Tamil Nadu - 600027",Delivered,"boAt Website"
+91,5770,2024-11-04,2024-11-06,2024-11-09,"Debit Card","192, Kolkata, West Bengal - 700063",Delivered,"boAt Website"
+92,2556,2024-07-29,2024-07-30,2024-08-01,UPI,"97, Mumbai, Maharashtra - 400026",Delivered,"boAt Website"
+93,6141,2024-10-18,2024-10-18,2024-10-22,"Debit Card","83, Kolkata, West Bengal - 700016",Delivered,Amazon
+94,7111,2024-08-20,2024-08-24,2024-08-29,"Credit Card","156, New Delhi, Delhi - 110041",Delivered,Amazon
+95,1223,2025-07-06,2025-07-08,2025-07-13,UPI,"123, Lucknow, Uttar Pradesh - 226060",Delivered,"boAt Website"
+96,9245,2025-02-02,2025-02-05,2025-02-12,UPI,"165, Kanpur, Uttar Pradesh - 208090",Returned,"boAt Website"
+97,9922,2024-10-19,2024-10-24,2024-10-27,"Credit Card","121, Chennai, Tamil Nadu - 600014",Delivered,Amazon
+98,843,2025-05-25,2025-05-27,2025-05-29,"Cash on Delivery","37, Noida, Uttar Pradesh - 201372",Delivered,Amazon
+99,6973,2024-04-07,2024-04-08,2024-04-12,"Credit Card","32, Bengaluru, Karnataka - 560094",Delivered,Amazon
+100,1987,2025-08-15,2025-08-17,2025-08-22,"Debit Card","115, New Delhi, Delhi - 110020",Delivered,Amazon
+101,4803,2025-02-12,2025-02-13,2025-02-27,UPI,"69, Gurugram, Haryana - 122080",Delivered,"boAt Website"
+102,10659,2024-01-14,2024-01-14,2024-01-18,"Debit Card","75, Mumbai, Maharashtra - 400025",Delivered,"boAt Website"
+103,4552,2025-06-18,2025-06-21,2025-06-28,"Credit Card","2, Chennai, Tamil Nadu - 600098",Cancelled,"boAt Website"
+104,11635,2024-01-02,2024-01-02,2024-01-04,"Credit Card","142, Hyderabad, Telangana - 500090",Delivered,Flipkart
+105,1554,2024-04-03,2024-04-03,2024-04-05,Wallet,"131, Jaipur, Rajasthan - 302089",Delivered,Flipkart
+106,5442,2024-11-29,2024-11-29,2024-12-05,UPI,"156, Indore, Madhya Pradesh - 452059",Delivered,"boAt Website"
+107,7097,2025-07-25,2025-07-25,2025-07-27,UPI,"38, Jaipur, Rajasthan - 302013",Delivered,"boAt Website"
+108,5753,2024-01-11,2024-01-13,2024-01-15,"Debit Card","173, Mumbai, Maharashtra - 400038",Delivered,"boAt Website"
+109,5207,2025-02-20,2025-02-23,2025-02-26,UPI,"160, Kolkata, West Bengal - 700044",Delivered,"boAt Website"
+110,7841,2024-06-03,2024-06-03,2024-06-10,"Debit Card","99, Mumbai, Maharashtra - 400066",Delivered,Amazon
+111,8075,2024-05-17,2024-05-20,2024-05-25,"Credit Card","99, Bhopal, Madhya Pradesh - 462040",Delivered,Amazon
+112,2651,2024-08-15,2024-08-15,2024-08-18,"Cash on Delivery","142, New Delhi, Delhi - 110060",Returned,"boAt Website"
+113,7786,2024-06-25,2024-06-29,2024-07-06,Wallet,"5, Bhopal, Madhya Pradesh - 462017",Delivered,"boAt Website"
+114,3252,2024-01-31,2024-02-07,2024-02-12,"Debit Card","95, Nagpur, Maharashtra - 440031",Delivered,"boAt Website"
+115,11932,2024-02-13,2024-02-14,2024-02-17,Wallet,"51, New Delhi, Delhi - 110056",Delivered,Amazon
+116,3677,2024-05-11,2024-05-13,2024-05-18,"Cash on Delivery","104, New Delhi, Delhi - 110084",Shipped,Amazon
+117,6329,2024-08-05,2024-08-07,2024-08-11,UPI,"152, Noida, Uttar Pradesh - 201366",Delivered,"boAt Website"
+118,9235,2025-03-16,2025-03-17,2025-03-20,"Debit Card","23, Bhopal, Madhya Pradesh - 462024",Delivered,"boAt Website"
+119,9944,2024-08-05,2024-08-07,2024-08-11,Wallet,"145, Chandigarh, Chandigarh - 160009",Delivered,"boAt Website"
+120,4631,2025-08-22,2025-08-24,2025-08-29,"Credit Card","107, New Delhi, Delhi - 110083",Delivered,Amazon
+121,6466,2025-04-15,2025-04-19,2025-04-24,"Credit Card","42, Chennai, Tamil Nadu - 600017",Shipped,Amazon
+122,2162,2024-12-15,2024-12-16,2024-12-21,"Cash on Delivery","169, Kolkata, West Bengal - 700011",Delivered,Amazon
+123,6677,2025-09-04,2025-09-05,2025-09-08,Wallet,"36, Vadodara, Gujarat - 390073",Delivered,Amazon
+124,2186,2024-11-18,2024-11-19,2024-11-24,Wallet,"196, Nagpur, Maharashtra - 440080",Returned,Amazon
+125,6585,2024-01-31,2024-01-31,2024-02-02,UPI,"43, Indore, Madhya Pradesh - 452073",Delivered,Amazon
+126,9788,2024-04-14,2024-04-18,2024-04-23,"Credit Card","22, Mumbai, Maharashtra - 400014",Delivered,"boAt Website"
+127,9366,2025-07-16,2025-07-17,2025-07-21,UPI,"185, Hyderabad, Telangana - 500077",Delivered,"boAt Website"
+128,331,2025-03-15,2025-03-17,2025-03-19,UPI,"93, Indore, Madhya Pradesh - 452037",Delivered,"boAt Website"
+129,6731,2025-08-29,2025-08-29,2025-09-01,Wallet,"121, Vadodara, Gujarat - 390015",Returned,"boAt Website"
+130,7388,2024-10-23,2024-10-23,2024-11-06,UPI,"100, Bhopal, Madhya Pradesh - 462087",Delivered,"boAt Website"
+131,104,2024-04-26,2024-04-28,2024-04-30,"Cash on Delivery","74, Nagpur, Maharashtra - 440009",Delivered,Amazon
+132,674,2024-12-08,2024-12-11,2024-12-15,UPI,"98, Patna, Bihar - 800066",Delivered,Amazon
+133,8272,2024-06-30,2024-06-30,2024-07-10,"Credit Card","178, Bhopal, Madhya Pradesh - 462090",Shipped,Amazon
+134,2543,2025-05-02,2025-05-02,2025-05-04,UPI,"115, Indore, Madhya Pradesh - 452059",Delivered,Amazon
+135,11353,2024-04-15,2024-04-15,2024-04-19,"Credit Card","22, Nagpur, Maharashtra - 440062",Delivered,"boAt Website"
+136,4765,2024-09-20,2024-09-20,2024-09-23,UPI,"160, Jaipur, Rajasthan - 302095",Delivered,"boAt Website"
+137,1490,2024-09-21,2024-09-21,2024-09-23,"Debit Card","168, Jaipur, Rajasthan - 302013",Delivered,"boAt Website"
+138,128,2024-11-09,2024-11-10,2024-11-12,"Credit Card","4, Mumbai, Maharashtra - 400001",Cancelled,"boAt Website"
+139,3985,2024-08-31,2024-09-01,2024-09-04,UPI,"107, Lucknow, Uttar Pradesh - 226082",Delivered,Amazon
+140,2300,2024-05-27,2024-05-28,2024-06-11,UPI,"100, Hyderabad, Telangana - 500079",Delivered,Amazon
+141,7751,2024-01-29,2024-01-29,2024-02-04,UPI,"93, Ahmedabad, Gujarat - 380056",Delivered,Amazon
+142,3193,2025-03-20,2025-03-24,2025-03-28,"Debit Card","37, Lucknow, Uttar Pradesh - 226031",Delivered,Amazon
+143,1855,2025-01-15,2025-01-15,2025-01-18,UPI,"93, Ahmedabad, Gujarat - 380015",Shipped,"boAt Website"
+144,3111,2025-07-13,2025-07-14,2025-07-18,"Cash on Delivery","152, Kolkata, West Bengal - 700045",Delivered,"boAt Website"
+145,2761,2025-07-29,2025-08-05,2025-08-07,"Cash on Delivery","32, Surat, Gujarat - 395026",Delivered,"boAt Website"
+146,6671,2025-05-20,2025-05-23,2025-05-30,Wallet,"140, Chennai, Tamil Nadu - 600021",Delivered,"Quick Commerce"
+147,4357,2025-03-26,2025-03-28,2025-03-30,UPI,"40, Vadodara, Gujarat - 390068",Delivered,"boAt Website"
+148,6538,2025-07-16,2025-07-18,2025-07-22,Wallet,"120, Patna, Bihar - 800059",Delivered,"Quick Commerce"
+149,8855,2024-09-10,2024-09-11,2024-09-21,UPI,"176, Lucknow, Uttar Pradesh - 226004",Returned,"Quick Commerce"
+150,3950,2024-08-18,2024-08-20,2024-08-23,Wallet,"157, Pune, Maharashtra - 411055",Delivered,"Quick Commerce"
+151,10285,2024-09-13,2024-09-14,2024-09-19,UPI,"168, Jaipur, Rajasthan - 302088",Delivered,"Quick Commerce"
+152,1466,2024-05-31,2024-06-03,2024-06-06,"Credit Card","182, Hyderabad, Telangana - 500049",Delivered,"Quick Commerce"
+153,456,2024-01-07,2024-01-07,2024-01-09,UPI,"79, Kolkata, West Bengal - 700035",Delivered,"Offline Store"
+154,1243,2025-01-28,2025-02-02,2025-02-07,Wallet,"21, Nagpur, Maharashtra - 440094",Delivered,"Offline Store"
+155,10874,2025-05-22,2025-05-24,2025-05-28,"Debit Card","22, Gurugram, Haryana - 122096",Delivered,"Offline Store"
+156,10572,2025-06-30,2025-07-02,2025-07-09,UPI,"53, Chennai, Tamil Nadu - 600054",Delivered,"Offline Store"
+157,8924,2025-08-01,2025-08-02,2025-08-08,"Credit Card","56, Surat, Gujarat - 395061",Delivered,"Offline Store"
+158,6047,2024-04-10,2024-04-11,2024-04-15,"Debit Card","52, Ahmedabad, Gujarat - 380016",Delivered,"Quick Commerce"
+159,7378,2024-06-08,2024-06-08,2024-06-10,UPI,"145, Nagpur, Maharashtra - 440067",Delivered,"Quick Commerce"
+160,10191,2024-09-05,2024-09-09,2024-09-13,UPI,"176, Vadodara, Gujarat - 390042",Delivered,"Quick Commerce"
+161,4904,2025-07-31,2025-08-01,2025-08-05,UPI,"175, Chennai, Tamil Nadu - 600085",Delivered,"Quick Commerce"
+162,5693,2025-05-15,2025-05-17,2025-05-20,UPI,"51, Chennai, Tamil Nadu - 600069",Delivered,"Quick Commerce"
+163,16,2025-08-25,2025-08-25,2025-08-27,Wallet,"152, Bhopal, Madhya Pradesh - 462009",Delivered,"Quick Commerce"
+164,4214,2025-03-21,2025-03-28,2025-04-01,"Credit Card","43, Kanpur, Uttar Pradesh - 208042",Delivered,"Quick Commerce"
+165,7355,2024-08-10,2024-08-12,2024-08-16,UPI,"105, Lucknow, Uttar Pradesh - 226053",Delivered,"Quick Commerce"
+166,2506,2024-10-17,2024-10-18,2024-10-22,"Credit Card","79, Nagpur, Maharashtra - 440094",Delivered,"Quick Commerce"
+167,7522,2025-05-19,2025-05-20,2025-05-24,"Debit Card","69, Chennai, Tamil Nadu - 600096",Cancelled,"Quick Commerce"
+168,8502,2025-08-05,2025-08-06,2025-08-09,UPI,"74, Chandigarh, Chandigarh - 160059",Delivered,"Quick Commerce"
+169,4154,2024-08-18,2024-08-19,2024-08-22,UPI,"127, Gurugram, Haryana - 122007",Returned,Amazon
+170,5860,2024-05-21,2024-05-22,2024-06-01,UPI,"150, Bengaluru, Karnataka - 560096",Delivered,Amazon
+171,3789,2024-05-14,2024-05-15,2024-05-19,UPI,"56, Gurugram, Haryana - 122057",Delivered,Amazon
+172,6520,2024-03-07,2024-03-08,2024-03-11,UPI,"189, Nagpur, Maharashtra - 440008",Delivered,Amazon
+173,11693,2025-01-03,2025-01-05,2025-01-10,UPI,"69, Indore, Madhya Pradesh - 452056",Delivered,Amazon
+174,9535,2025-09-01,2025-09-04,2025-09-09,UPI,"3, Bhopal, Madhya Pradesh - 462033",Delivered,Amazon
+175,2954,2024-12-28,2024-12-29,2025-01-05,"Credit Card","44, Kolkata, West Bengal - 700004",Delivered,Flipkart
+176,8859,2025-02-19,2025-02-20,2025-02-25,"Credit Card","52, Indore, Madhya Pradesh - 452088",Delivered,Flipkart
+177,1431,2025-07-21,2025-07-22,2025-07-28,"Debit Card","154, Chennai, Tamil Nadu - 600053",Shipped,Flipkart
+178,4586,2025-04-08,2025-04-10,2025-04-12,"Credit Card","79, Bhopal, Madhya Pradesh - 462069",Delivered,Flipkart
+179,536,2024-03-26,2024-03-28,2024-03-31,UPI,"63, Pune, Maharashtra - 411040",Delivered,Flipkart
+180,2101,2025-06-20,2025-06-20,2025-06-23,"Cash on Delivery","18, Chennai, Tamil Nadu - 600090",Delivered,Amazon
+181,2236,2024-07-29,2024-08-03,2024-08-07,UPI,"118, Gurugram, Haryana - 122056",Delivered,Amazon
+182,8320,2025-08-04,2025-08-04,2025-08-11,"Cash on Delivery","27, Bengaluru, Karnataka - 560040",Delivered,Amazon
+183,7575,2025-01-27,2025-01-30,2025-02-02,UPI,"67, Indore, Madhya Pradesh - 452028",Delivered,Flipkart
+184,6927,2025-04-13,2025-04-13,2025-04-19,"Cash on Delivery","100, Indore, Madhya Pradesh - 452095",Delivered,Flipkart
+185,8485,2024-07-25,2024-07-26,2024-07-28,"Cash on Delivery","38, Gurugram, Haryana - 122012",Shipped,"Quick Commerce"
+186,7661,2024-05-18,2024-05-19,2024-05-29,"Credit Card","158, New Delhi, Delhi - 110054",Cancelled,"Quick Commerce"
+187,153,2024-06-08,2024-06-12,2024-06-17,UPI,"44, Jaipur, Rajasthan - 302001",Returned,"Quick Commerce"
+188,11128,2024-12-25,2024-12-26,2024-12-29,"Credit Card","148, Patna, Bihar - 800054",Delivered,Amazon
+189,11526,2025-05-27,2025-05-30,2025-06-03,"Cash on Delivery","82, Indore, Madhya Pradesh - 452039",Delivered,"Retail Partner"
+190,8426,2024-09-22,2024-09-22,2024-09-24,"Credit Card","93, Gurugram, Haryana - 122085",Delivered,"Retail Partner"
+191,703,2025-02-07,2025-02-09,2025-02-14,UPI,"84, Bhopal, Madhya Pradesh - 462021",Delivered,"Retail Partner"
+192,6749,2025-04-28,2025-04-28,2025-04-30,"Debit Card","69, Patna, Bihar - 800065",Delivered,"Retail Partner"
+193,850,2024-04-01,2024-04-03,2024-04-08,UPI,"150, Mumbai, Maharashtra - 400026",Delivered,"Retail Partner"
+194,10892,2025-08-21,2025-08-24,2025-08-28,UPI,"17, Kolkata, West Bengal - 700096",Delivered,"Retail Partner"
+195,1090,2024-07-05,2024-07-07,2024-07-21,UPI,"41, Bengaluru, Karnataka - 560028",Delivered,"Retail Partner"
+196,4554,2024-10-01,2024-10-02,2024-10-05,UPI,"125, Indore, Madhya Pradesh - 452033",Delivered,"Retail Partner"
+197,1710,2024-04-02,2024-04-02,2024-04-07,"Credit Card","108, Indore, Madhya Pradesh - 452073",Delivered,"Retail Partner"
+198,1752,2024-06-06,2024-06-10,2024-06-16,UPI,"135, Ahmedabad, Gujarat - 380040",Delivered,"Retail Partner"
+199,5121,2024-07-03,2024-07-03,2024-07-06,"Debit Card","119, Chandigarh, Chandigarh - 160060",Delivered,"Retail Partner"
+200,2176,2024-02-08,2024-02-10,2024-02-14,UPI,"75, Chennai, Tamil Nadu - 600098",Delivered,"Retail Partner"
+201,6097,2024-05-14,2024-05-14,2024-05-20,"Cash on Delivery","131, Pune, Maharashtra - 411031",Delivered,"Social Media"
+202,11339,2024-04-19,2024-04-21,2024-04-26,"Credit Card","128, Gurugram, Haryana - 122069",Delivered,"Social Media"
+203,3917,2024-03-20,2024-03-24,2024-03-27,"Debit Card","8, Gurugram, Haryana - 122081",Delivered,"Retail Partner"
+204,8037,2025-07-06,2025-07-08,2025-07-13,UPI,"45, Surat, Gujarat - 395003",Shipped,"Retail Partner"
+205,9049,2025-04-02,2025-04-03,2025-04-07,UPI,"22, Bhopal, Madhya Pradesh - 462031",Delivered,Amazon
+206,7176,2024-01-21,2024-01-22,2024-01-26,UPI,"144, Mumbai, Maharashtra - 400017",Delivered,Amazon
+207,7626,2025-02-26,2025-02-26,2025-03-03,Wallet,"33, Lucknow, Uttar Pradesh - 226030",Delivered,Amazon
+208,1779,2024-06-18,2024-06-19,2024-06-25,"Debit Card","145, Noida, Uttar Pradesh - 201387",Delivered,Amazon
+209,9146,2024-02-24,2024-02-25,2024-02-27,"Credit Card","93, Ahmedabad, Gujarat - 380013",Delivered,"Retail Partner"
+210,10427,2024-05-16,2024-05-17,2024-05-19,Wallet,"25, Kolkata, West Bengal - 700026",Delivered,"Retail Partner"
+211,1023,2025-05-07,2025-05-08,2025-05-12,UPI,"5, Ahmedabad, Gujarat - 380024",Cancelled,"Retail Partner"
+212,2042,2024-10-18,2024-10-18,2024-10-22,UPI,"70, Surat, Gujarat - 395075",Delivered,Flipkart
+213,11508,2024-01-03,2024-01-10,2024-01-13,Wallet,"198, Hyderabad, Telangana - 500062",Delivered,Flipkart
+214,7554,2024-12-03,2024-12-04,2024-12-10,"Credit Card","58, Kolkata, West Bengal - 700062",Delivered,Flipkart
+215,6127,2025-04-13,2025-04-15,2025-04-20,"Cash on Delivery","120, Gurugram, Haryana - 122093",Delivered,"Quick Commerce"
+216,2104,2024-03-09,2024-03-10,2024-03-16,UPI,"186, Kanpur, Uttar Pradesh - 208067",Delivered,"Offline Store"
+217,10070,2025-03-30,2025-03-31,2025-04-04,UPI,"79, Patna, Bihar - 800073",Delivered,"Offline Store"
+218,11600,2024-08-16,2024-08-17,2024-08-21,UPI,"8, Jaipur, Rajasthan - 302069",Delivered,"Quick Commerce"
+219,7559,2024-07-29,2024-07-30,2024-08-04,UPI,"79, Patna, Bihar - 800052",Delivered,"Quick Commerce"
+220,10996,2025-04-17,2025-04-22,2025-04-24,UPI,"107, Noida, Uttar Pradesh - 201391",Delivered,"Quick Commerce"
+221,5171,2024-05-20,2024-05-20,2024-05-23,"Cash on Delivery","77, Nagpur, Maharashtra - 440081",Shipped,Amazon
+222,7521,2024-12-03,2024-12-04,2024-12-09,UPI,"40, Kolkata, West Bengal - 700056",Delivered,Amazon
+223,4714,2025-01-30,2025-02-01,2025-02-05,"Debit Card","76, Kanpur, Uttar Pradesh - 208067",Delivered,Amazon
+224,11840,2024-11-14,2024-11-18,2024-11-28,"Cash on Delivery","143, Kolkata, West Bengal - 700015",Delivered,Amazon
+225,4659,2025-06-15,2025-06-15,2025-06-19,UPI,"106, Hyderabad, Telangana - 500065",Delivered,Amazon
+226,4579,2025-06-11,2025-06-13,2025-06-16,UPI,"20, Nagpur, Maharashtra - 440051",Delivered,Amazon
+227,7391,2024-12-25,2024-12-28,2024-12-31,"Debit Card","169, Surat, Gujarat - 395095",Delivered,Amazon
+228,11398,2024-02-28,2024-03-02,2024-03-04,UPI,"153, Kolkata, West Bengal - 700057",Delivered,Amazon
+229,2451,2025-08-05,2025-08-05,2025-08-11,UPI,"109, Vadodara, Gujarat - 390025",Returned,Amazon
+230,356,2024-09-25,2024-09-26,2024-10-01,UPI,"33, Surat, Gujarat - 395074",Delivered,Amazon
+231,2073,2025-07-09,2025-07-11,2025-07-16,"Debit Card","157, Kanpur, Uttar Pradesh - 208097",Delivered,Amazon
+232,3478,2025-02-28,2025-03-01,2025-03-08,"Credit Card","195, Jaipur, Rajasthan - 302022",Returned,Amazon
+233,7867,2025-04-26,2025-04-27,2025-04-30,UPI,"74, Patna, Bihar - 800063",Delivered,Amazon
+234,8154,2024-10-27,2024-10-29,2024-11-04,UPI,"188, Lucknow, Uttar Pradesh - 226082",Delivered,Amazon
+235,391,2025-08-20,2025-08-21,2025-08-25,"Cash on Delivery","199, Chennai, Tamil Nadu - 600081",Delivered,Amazon
+236,7310,2024-12-23,2024-12-26,2024-12-29,Wallet,"44, Bhopal, Madhya Pradesh - 462056",Delivered,Amazon
+237,10577,2025-03-12,2025-03-13,2025-03-19,UPI,"126, New Delhi, Delhi - 110003",Delivered,Amazon
+238,6139,2025-01-13,2025-01-13,2025-01-19,UPI,"117, Pune, Maharashtra - 411074",Delivered,Amazon
+239,643,2024-09-05,2024-09-07,2024-09-13,UPI,"11, Jaipur, Rajasthan - 302026",Delivered,Amazon
+240,5753,2024-03-11,2024-03-12,2024-03-16,"Credit Card","55, Mumbai, Maharashtra - 400038",Delivered,Amazon
+241,4336,2024-06-28,2024-06-29,2024-07-02,"Debit Card","138, Noida, Uttar Pradesh - 201367",Delivered,Amazon
+242,5356,2024-06-12,2024-06-13,2024-06-17,UPI,"93, Lucknow, Uttar Pradesh - 226090",Delivered,Flipkart
+243,184,2024-12-29,2024-12-30,2025-01-06,UPI,"195, Chandigarh, Chandigarh - 160069",Delivered,Flipkart
+244,6140,2024-05-11,2024-05-13,2024-05-16,UPI,"166, Jaipur, Rajasthan - 302075",Returned,Flipkart
+245,5757,2025-04-01,2025-04-01,2025-04-11,"Debit Card","4, Jaipur, Rajasthan - 302058",Delivered,Flipkart
+246,6868,2025-04-19,2025-04-20,2025-04-25,UPI,"21, Ahmedabad, Gujarat - 380001",Delivered,Flipkart
+247,1733,2024-02-12,2024-02-13,2024-02-20,"Debit Card","137, Vadodara, Gujarat - 390039",Delivered,Flipkart
+248,4275,2025-01-09,2025-01-09,2025-01-13,"Debit Card","32, Noida, Uttar Pradesh - 201348",Delivered,Flipkart
+249,6103,2024-12-10,2024-12-12,2024-12-22,Wallet,"50, Chandigarh, Chandigarh - 160066",Delivered,"Quick Commerce"
+250,722,2024-10-08,2024-10-08,2024-10-11,UPI,"40, Ahmedabad, Gujarat - 380028",Delivered,"Quick Commerce"
+251,10490,2024-03-15,2024-03-16,2024-03-22,Wallet,"98, Kolkata, West Bengal - 700015",Delivered,"Quick Commerce"
+252,1964,2024-05-28,2024-06-01,2024-06-05,Wallet,"183, Chandigarh, Chandigarh - 160054",Shipped,"Quick Commerce"
+253,3793,2025-06-15,2025-06-17,2025-06-20,Wallet,"13, Patna, Bihar - 800062",Delivered,"Quick Commerce"
+254,6742,2024-04-01,2024-04-02,2024-04-08,UPI,"24, Patna, Bihar - 800036",Delivered,"Quick Commerce"
+255,4806,2024-12-27,2024-12-28,2025-01-02,Wallet,"140, Lucknow, Uttar Pradesh - 226098",Delivered,"Quick Commerce"
+256,11723,2024-08-20,2024-08-21,2024-08-23,UPI,"14, Gurugram, Haryana - 122045",Delivered,"Quick Commerce"
+257,6404,2025-08-14,2025-08-15,2025-08-17,UPI,"156, Hyderabad, Telangana - 500036",Delivered,"Quick Commerce"
+258,7347,2024-04-27,2024-04-27,2024-05-03,Wallet,"100, Pune, Maharashtra - 411065",Delivered,"Quick Commerce"
+259,4355,2025-03-14,2025-03-14,2025-03-24,"Debit Card","133, Kolkata, West Bengal - 700047",Returned,"Quick Commerce"
+260,1912,2025-06-05,2025-06-06,2025-06-08,"Debit Card","1, Bengaluru, Karnataka - 560005",Delivered,"Quick Commerce"
+261,10505,2024-12-18,2024-12-19,2024-12-21,"Debit Card","60, Kolkata, West Bengal - 700053",Delivered,"Quick Commerce"
+262,11825,2025-06-27,2025-06-28,2025-07-01,"Debit Card","67, Bhopal, Madhya Pradesh - 462096",Delivered,"Quick Commerce"
+263,1298,2025-06-01,2025-06-01,2025-06-03,"Cash on Delivery","191, Lucknow, Uttar Pradesh - 226048",Delivered,"Quick Commerce"
+264,10578,2024-09-12,2024-09-16,2024-09-20,UPI,"37, Ahmedabad, Gujarat - 380002",Delivered,"Quick Commerce"
+265,1489,2025-05-23,2025-05-23,2025-06-02,"Debit Card","12, Kanpur, Uttar Pradesh - 208014",Delivered,"Quick Commerce"
+266,3598,2024-01-08,2024-01-11,2024-01-13,"Credit Card","12, Pune, Maharashtra - 411037",Delivered,"Quick Commerce"
+267,2986,2024-08-04,2024-08-06,2024-08-08,"Credit Card","23, Chandigarh, Chandigarh - 160016",Delivered,"Quick Commerce"
+268,2424,2024-05-11,2024-05-12,2024-05-16,"Cash on Delivery","98, Chennai, Tamil Nadu - 600073",Delivered,"Quick Commerce"
+269,912,2025-03-26,2025-03-27,2025-03-30,"Cash on Delivery","149, Mumbai, Maharashtra - 400072",Delivered,Amazon
+270,3269,2025-06-10,2025-06-10,2025-06-14,Wallet,"68, Chennai, Tamil Nadu - 600060",Delivered,Flipkart
+271,762,2024-04-16,2024-04-18,2024-04-20,UPI,"8, Lucknow, Uttar Pradesh - 226086",Delivered,Flipkart
+272,719,2024-07-23,2024-07-24,2024-07-29,UPI,"57, Mumbai, Maharashtra - 400034",Delivered,Flipkart
+273,11945,2025-03-03,2025-03-08,2025-03-11,Wallet,"9, Bhopal, Madhya Pradesh - 462062",Shipped,Flipkart
+274,713,2025-06-22,2025-06-24,2025-06-26,"Cash on Delivery","172, Bengaluru, Karnataka - 560099",Returned,Flipkart
+275,7851,2024-02-21,2024-02-22,2024-02-25,UPI,"150, Ahmedabad, Gujarat - 380037",Delivered,Flipkart
+276,7157,2024-02-04,2024-02-09,2024-02-13,UPI,"44, Noida, Uttar Pradesh - 201350",Delivered,Flipkart
+277,5166,2025-04-08,2025-04-08,2025-04-12,UPI,"29, Bengaluru, Karnataka - 560057",Delivered,Flipkart
+278,10383,2024-01-20,2024-01-21,2024-01-24,"Debit Card","5, Hyderabad, Telangana - 500032",Delivered,Flipkart
+279,7888,2024-10-22,2024-10-25,2024-10-30,UPI,"70, Surat, Gujarat - 395065",Delivered,Flipkart
+280,9054,2024-06-23,2024-06-26,2024-06-30,"Credit Card","43, Kolkata, West Bengal - 700045",Delivered,Flipkart
+281,7292,2024-02-12,2024-02-16,2024-02-18,UPI,"168, Hyderabad, Telangana - 500058",Cancelled,Flipkart
+282,346,2025-03-01,2025-03-01,2025-03-03,"Credit Card","166, Lucknow, Uttar Pradesh - 226099",Delivered,Flipkart
+283,10220,2024-01-11,2024-01-15,2024-01-17,UPI,"18, Pune, Maharashtra - 411090",Delivered,Flipkart
+284,4473,2024-08-10,2024-08-11,2024-08-14,Wallet,"44, Chennai, Tamil Nadu - 600016",Delivered,Flipkart
+285,3774,2025-07-02,2025-07-05,2025-07-12,"Debit Card","68, Hyderabad, Telangana - 500021",Shipped,Flipkart
+286,8641,2025-04-09,2025-04-09,2025-04-13,Wallet,"66, Pune, Maharashtra - 411013",Shipped,Flipkart
+287,7991,2024-08-08,2024-08-10,2024-08-12,"Cash on Delivery","103, Pune, Maharashtra - 411052",Delivered,Flipkart
+288,8556,2024-09-17,2024-09-18,2024-09-28,Wallet,"60, Hyderabad, Telangana - 500041",Delivered,Flipkart
+289,5074,2024-05-13,2024-05-13,2024-05-16,UPI,"22, Kolkata, West Bengal - 700079",Delivered,Flipkart
+290,4219,2024-05-28,2024-06-04,2024-06-10,Wallet,"107, Mumbai, Maharashtra - 400006",Delivered,Flipkart
+291,2058,2025-03-17,2025-03-19,2025-03-22,"Debit Card","93, Indore, Madhya Pradesh - 452015",Returned,Flipkart
+292,11136,2024-05-02,2024-05-02,2024-05-12,"Cash on Delivery","108, Noida, Uttar Pradesh - 201379",Delivered,Flipkart
+293,6785,2024-11-09,2024-11-09,2024-11-14,"Credit Card","117, Noida, Uttar Pradesh - 201319",Delivered,Flipkart
+294,2806,2024-01-13,2024-01-14,2024-01-18,UPI,"38, Gurugram, Haryana - 122005",Delivered,Flipkart
+295,1770,2024-06-29,2024-06-29,2024-07-02,UPI,"176, Indore, Madhya Pradesh - 452002",Delivered,Flipkart
+296,2813,2024-07-17,2024-07-18,2024-07-20,"Debit Card","102, Gurugram, Haryana - 122005",Returned,Flipkart
+297,10330,2024-05-31,2024-06-01,2024-06-05,"Cash on Delivery","153, Kanpur, Uttar Pradesh - 208023",Delivered,Flipkart
+298,9867,2024-06-29,2024-06-29,2024-07-01,UPI,"44, Chennai, Tamil Nadu - 600060",Delivered,Flipkart
+299,5020,2025-01-09,2025-01-10,2025-01-15,UPI,"127, Jaipur, Rajasthan - 302050",Delivered,Flipkart
+300,8282,2024-04-15,2024-04-16,2024-04-26,"Cash on Delivery","9, Pune, Maharashtra - 411089",Delivered,Flipkart
+301,1910,2024-06-19,2024-06-20,2024-06-24,UPI,"84, Kanpur, Uttar Pradesh - 208036",Delivered,Flipkart
+302,3127,2025-02-18,2025-02-18,2025-02-21,"Credit Card","156, Pune, Maharashtra - 411089",Shipped,Flipkart
+303,1036,2025-01-01,2025-01-05,2025-01-07,"Credit Card","39, Mumbai, Maharashtra - 400024",Delivered,Flipkart
+304,7211,2024-07-26,2024-07-28,2024-07-31,UPI,"1, Surat, Gujarat - 395076",Delivered,Flipkart
+305,9473,2024-09-25,2024-09-30,2024-10-05,UPI,"165, Jaipur, Rajasthan - 302007",Delivered,Flipkart
+306,2357,2025-05-06,2025-05-07,2025-05-12,"Cash on Delivery","199, Chennai, Tamil Nadu - 600057",Delivered,Amazon
+307,884,2025-02-24,2025-02-27,2025-03-02,"Debit Card","10, Pune, Maharashtra - 411012",Shipped,Amazon
+308,8352,2024-11-27,2024-11-28,2024-12-05,"Credit Card","125, Lucknow, Uttar Pradesh - 226003",Delivered,Amazon
+309,4213,2024-06-04,2024-06-04,2024-06-08,Wallet,"185, Indore, Madhya Pradesh - 452087",Delivered,Amazon
+310,2284,2024-02-21,2024-02-22,2024-02-25,"Credit Card","166, Patna, Bihar - 800073",Cancelled,Amazon
+311,10787,2025-02-25,2025-03-01,2025-03-06,"Credit Card","73, Kolkata, West Bengal - 700015",Delivered,Amazon
+312,1131,2024-09-16,2024-09-19,2024-09-26,"Debit Card","68, Gurugram, Haryana - 122081",Delivered,Amazon
+313,2931,2025-01-26,2025-01-28,2025-01-31,UPI,"55, Jaipur, Rajasthan - 302091",Delivered,Amazon
+314,5737,2025-02-15,2025-02-15,2025-02-17,UPI,"87, Ahmedabad, Gujarat - 380060",Delivered,Amazon
+315,5649,2025-01-16,2025-01-17,2025-01-20,UPI,"169, Lucknow, Uttar Pradesh - 226014",Delivered,Amazon
+316,10714,2024-04-09,2024-04-11,2024-04-16,"Debit Card","42, New Delhi, Delhi - 110097",Delivered,Amazon
+317,83,2025-06-03,2025-06-06,2025-06-11,UPI,"196, Indore, Madhya Pradesh - 452003",Delivered,Amazon
+318,5494,2025-01-31,2025-02-04,2025-02-07,UPI,"125, Bengaluru, Karnataka - 560057",Delivered,Amazon
+319,2577,2025-02-18,2025-02-18,2025-02-22,"Credit Card","157, Chandigarh, Chandigarh - 160007",Delivered,Amazon
+320,1693,2024-03-05,2024-03-06,2024-03-09,UPI,"132, Mumbai, Maharashtra - 400066",Returned,Amazon
+321,4099,2024-08-10,2024-08-12,2024-08-19,"Cash on Delivery","143, Gurugram, Haryana - 122098",Delivered,Amazon
+322,136,2024-12-15,2024-12-17,2024-12-21,UPI,"34, Ahmedabad, Gujarat - 380040",Shipped,Amazon
+323,3412,2024-07-16,2024-07-18,2024-07-24,UPI,"117, Nagpur, Maharashtra - 440069",Delivered,Amazon
+324,3096,2024-03-10,2024-03-10,2024-03-20,"Debit Card","97, Vadodara, Gujarat - 390098",Delivered,Amazon
+325,1204,2025-05-10,2025-05-11,2025-05-25,Wallet,"121, Chandigarh, Chandigarh - 160049",Delivered,Amazon
+326,2643,2024-02-20,2024-02-23,2024-02-29,"Credit Card","149, Patna, Bihar - 800078",Delivered,Amazon
+327,6020,2025-02-27,2025-02-27,2025-03-01,UPI,"74, Noida, Uttar Pradesh - 201393",Delivered,Amazon
+328,2165,2025-07-08,2025-07-09,2025-07-13,"Cash on Delivery","171, Lucknow, Uttar Pradesh - 226058",Delivered,Amazon
+329,298,2024-01-16,2024-01-17,2024-01-20,UPI,"155, Mumbai, Maharashtra - 400003",Delivered,Amazon
+330,6415,2025-07-06,2025-07-06,2025-07-08,"Cash on Delivery","75, Noida, Uttar Pradesh - 201395",Delivered,Amazon
+331,2085,2025-08-09,2025-08-11,2025-08-15,"Credit Card","112, Chandigarh, Chandigarh - 160067",Delivered,Amazon
+332,10986,2025-05-06,2025-05-08,2025-05-12,UPI,"110, Bhopal, Madhya Pradesh - 462021",Delivered,Amazon
+333,10213,2024-04-18,2024-04-19,2024-04-26,UPI,"80, Bhopal, Madhya Pradesh - 462096",Delivered,Amazon
+334,5327,2024-10-29,2024-11-01,2024-11-03,UPI,"41, Surat, Gujarat - 395031",Delivered,Amazon
+335,4244,2025-01-30,2025-02-01,2025-02-04,UPI,"94, Hyderabad, Telangana - 500088",Delivered,Amazon
+336,2003,2025-03-19,2025-03-22,2025-03-29,"Credit Card","90, Indore, Madhya Pradesh - 452063",Delivered,Amazon
+337,1620,2025-05-18,2025-05-18,2025-05-21,UPI,"52, Ahmedabad, Gujarat - 380043",Delivered,Amazon
+338,7404,2024-09-06,2024-09-06,2024-09-08,UPI,"142, Bhopal, Madhya Pradesh - 462020",Returned,Amazon
+339,71,2024-02-28,2024-02-29,2024-03-05,UPI,"88, Mumbai, Maharashtra - 400073",Delivered,Amazon
+340,11319,2024-10-28,2024-10-29,2024-11-01,"Debit Card","18, Jaipur, Rajasthan - 302083",Returned,Amazon
+341,3715,2024-09-03,2024-09-03,2024-09-06,UPI,"148, Bhopal, Madhya Pradesh - 462058",Delivered,Amazon
+342,3030,2024-06-02,2024-06-04,2024-06-08,UPI,"143, Bhopal, Madhya Pradesh - 462088",Shipped,Amazon
+343,6667,2024-11-16,2024-11-17,2024-11-20,Wallet,"166, New Delhi, Delhi - 110026",Delivered,Amazon
+344,136,2024-05-09,2024-05-09,2024-05-19,"Credit Card","30, Ahmedabad, Gujarat - 380040",Cancelled,Amazon
+345,5128,2025-08-22,2025-08-25,2025-08-29,"Credit Card","150, Bhopal, Madhya Pradesh - 462090",Delivered,Amazon
+346,8026,2025-08-02,2025-08-04,2025-08-07,UPI,"120, Mumbai, Maharashtra - 400044",Delivered,Amazon
+347,10866,2025-08-26,2025-08-29,2025-09-01,UPI,"62, Noida, Uttar Pradesh - 201340",Delivered,Amazon
+348,6164,2024-05-25,2024-05-29,2024-06-01,UPI,"158, Surat, Gujarat - 395045",Delivered,Amazon
+349,5403,2024-10-25,2024-10-26,2024-10-29,UPI,"32, Noida, Uttar Pradesh - 201381",Delivered,Amazon
+350,2733,2024-09-15,2024-09-16,2024-09-20,UPI,"6, Bhopal, Madhya Pradesh - 462061",Delivered,Amazon
+351,7940,2025-04-26,2025-04-27,2025-04-30,UPI,"133, Nagpur, Maharashtra - 440086",Delivered,Amazon
+352,5559,2025-08-12,2025-08-13,2025-08-17,"Debit Card","159, Ahmedabad, Gujarat - 380074",Delivered,Amazon
+353,11351,2024-04-16,2024-04-16,2024-04-23,Wallet,"43, Pune, Maharashtra - 411086",Shipped,Amazon
+354,3216,2025-05-13,2025-05-13,2025-05-17,UPI,"70, Chandigarh, Chandigarh - 160001",Shipped,Amazon
+355,6009,2025-03-31,2025-04-02,2025-04-08,Wallet,"111, Noida, Uttar Pradesh - 201318",Delivered,Amazon
+356,3439,2025-06-27,2025-07-02,2025-07-06,UPI,"63, Gurugram, Haryana - 122048",Delivered,Amazon
+357,3189,2025-05-30,2025-06-01,2025-06-03,UPI,"35, Ahmedabad, Gujarat - 380061",Delivered,Amazon
+358,11490,2025-09-02,2025-09-04,2025-09-07,UPI,"65, Mumbai, Maharashtra - 400098",Delivered,Amazon
+359,2588,2024-12-21,2024-12-22,2024-12-25,"Credit Card","114, Lucknow, Uttar Pradesh - 226009",Delivered,Amazon
+360,11866,2024-11-28,2024-11-29,2024-12-01,"Credit Card","28, Patna, Bihar - 800071",Shipped,Amazon
+361,8540,2025-02-25,2025-02-26,2025-03-02,"Debit Card","123, Noida, Uttar Pradesh - 201333",Delivered,Amazon
+362,8383,2025-07-18,2025-07-23,2025-07-29,"Debit Card","153, Chennai, Tamil Nadu - 600040",Delivered,Amazon
+363,5824,2024-07-19,2024-07-21,2024-07-23,"Credit Card","151, Ahmedabad, Gujarat - 380010",Delivered,Amazon
+364,1635,2024-10-10,2024-10-11,2024-10-15,"Debit Card","92, New Delhi, Delhi - 110010",Delivered,Amazon
+365,10413,2024-10-20,2024-10-22,2024-11-01,Wallet,"186, Bhopal, Madhya Pradesh - 462027",Delivered,Amazon
+366,2073,2024-03-31,2024-03-31,2024-04-02,"Credit Card","72, Kanpur, Uttar Pradesh - 208097",Delivered,Amazon
+367,4423,2025-09-02,2025-09-02,2025-09-05,Wallet,"111, Pune, Maharashtra - 411098",Delivered,Amazon
+368,5119,2024-02-17,2024-02-18,2024-03-03,"Debit Card","59, Hyderabad, Telangana - 500005",Delivered,Amazon
+369,5897,2025-03-11,2025-03-12,2025-03-17,"Credit Card","172, Ahmedabad, Gujarat - 380070",Shipped,Amazon
+370,10468,2025-05-05,2025-05-07,2025-05-11,UPI,"46, Vadodara, Gujarat - 390097",Delivered,Amazon
+371,591,2025-03-29,2025-03-29,2025-04-03,UPI,"187, Mumbai, Maharashtra - 400077",Delivered,Amazon
+372,9457,2024-06-10,2024-06-10,2024-06-12,UPI,"137, Vadodara, Gujarat - 390086",Delivered,Amazon
+373,9002,2025-04-01,2025-04-03,2025-04-17,UPI,"77, Bhopal, Madhya Pradesh - 462044",Delivered,Amazon
+374,5457,2025-06-20,2025-06-23,2025-06-28,"Cash on Delivery","46, Vadodara, Gujarat - 390092",Delivered,Amazon
+375,8559,2024-11-19,2024-11-21,2024-11-24,UPI,"163, Ahmedabad, Gujarat - 380094",Delivered,Amazon
+376,2589,2024-04-15,2024-04-16,2024-04-21,UPI,"26, Jaipur, Rajasthan - 302080",Cancelled,Amazon
+377,5121,2024-06-08,2024-06-12,2024-06-15,UPI,"160, Chandigarh, Chandigarh - 160060",Cancelled,Amazon
+378,8214,2024-10-09,2024-10-09,2024-10-13,"Cash on Delivery","105, Patna, Bihar - 800080",Delivered,Amazon
+379,1525,2025-08-13,2025-08-18,2025-08-21,UPI,"106, Kanpur, Uttar Pradesh - 208049",Delivered,Amazon
+380,6438,2024-11-10,2024-11-11,2024-11-14,"Debit Card","31, Patna, Bihar - 800042",Delivered,Amazon
+381,8766,2025-07-28,2025-07-30,2025-08-01,"Debit Card","15, Patna, Bihar - 800017",Delivered,Amazon
+382,11909,2024-07-05,2024-07-05,2024-07-10,"Debit Card","139, Ahmedabad, Gujarat - 380074",Delivered,Amazon
+383,9548,2024-12-10,2024-12-11,2024-12-13,"Credit Card","18, Jaipur, Rajasthan - 302071",Returned,Amazon
+384,3336,2024-04-27,2024-04-30,2024-05-03,UPI,"34, Vadodara, Gujarat - 390070",Delivered,Amazon
+385,5090,2024-10-17,2024-10-22,2024-11-05,UPI,"84, Bengaluru, Karnataka - 560004",Delivered,Amazon
+386,9496,2025-03-30,2025-04-04,2025-04-09,"Cash on Delivery","159, Lucknow, Uttar Pradesh - 226042",Delivered,Amazon
+387,6872,2024-10-05,2024-10-05,2024-10-08,UPI,"68, Hyderabad, Telangana - 500069",Delivered,Amazon
+388,5335,2025-02-21,2025-02-22,2025-02-24,"Debit Card","53, Gurugram, Haryana - 122021",Delivered,Amazon
+389,4695,2024-12-07,2024-12-08,2024-12-11,"Credit Card","168, Vadodara, Gujarat - 390051",Delivered,Amazon
+390,7325,2025-02-07,2025-02-08,2025-02-11,UPI,"56, Pune, Maharashtra - 411071",Delivered,Amazon
+391,5744,2025-02-24,2025-02-28,2025-03-02,UPI,"190, Hyderabad, Telangana - 500091",Shipped,Amazon
+392,9839,2024-04-03,2024-04-08,2024-04-14,Wallet,"170, Patna, Bihar - 800062",Delivered,Amazon
+393,4381,2024-12-07,2024-12-07,2024-12-09,Wallet,"93, Ahmedabad, Gujarat - 380050",Delivered,Amazon
+394,2361,2025-07-22,2025-07-27,2025-07-29,UPI,"89, Pune, Maharashtra - 411068",Delivered,Amazon
+395,4256,2024-11-28,2024-12-05,2024-12-07,UPI,"95, Hyderabad, Telangana - 500045",Delivered,Amazon
+396,564,2024-07-05,2024-07-05,2024-07-09,"Cash on Delivery","54, Patna, Bihar - 800061",Delivered,Amazon
+397,11456,2024-09-16,2024-09-18,2024-09-20,UPI,"134, Mumbai, Maharashtra - 400024",Delivered,Amazon
+398,8231,2024-08-03,2024-08-04,2024-08-06,"Debit Card","43, Bengaluru, Karnataka - 560076",Delivered,Amazon
+399,2153,2025-05-08,2025-05-10,2025-05-13,"Credit Card","168, Lucknow, Uttar Pradesh - 226058",Shipped,Amazon
+400,7222,2024-09-09,2024-09-12,2024-09-26,UPI,"87, Ahmedabad, Gujarat - 380083",Delivered,Amazon
+401,2012,2024-03-17,2024-03-18,2024-03-21,Wallet,"159, Mumbai, Maharashtra - 400030",Delivered,Amazon
+402,8997,2024-07-30,2024-07-31,2024-08-06,Wallet,"7, Nagpur, Maharashtra - 440097",Delivered,Amazon
+403,5799,2024-08-28,2024-08-31,2024-09-02,Wallet,"84, Jaipur, Rajasthan - 302002",Shipped,Amazon
+404,11020,2025-05-14,2025-05-15,2025-05-17,UPI,"158, Nagpur, Maharashtra - 440034",Delivered,Amazon
+405,8613,2024-11-17,2024-11-19,2024-11-21,"Debit Card","68, Gurugram, Haryana - 122068",Delivered,Amazon
+406,11199,2025-08-01,2025-08-06,2025-08-09,Wallet,"152, Nagpur, Maharashtra - 440053",Delivered,Amazon
+407,8535,2024-09-24,2024-09-24,2024-09-27,UPI,"184, Kanpur, Uttar Pradesh - 208049",Delivered,Amazon
+408,1744,2024-06-04,2024-06-06,2024-06-08,"Debit Card","25, Nagpur, Maharashtra - 440038",Delivered,Amazon
+409,2675,2024-03-23,2024-03-24,2024-03-29,Wallet,"17, Mumbai, Maharashtra - 400099",Delivered,Amazon
+410,9337,2024-02-28,2024-02-28,2024-03-03,"Credit Card","116, Nagpur, Maharashtra - 440044",Delivered,Amazon
+411,5373,2025-01-21,2025-01-22,2025-01-24,UPI,"195, Bengaluru, Karnataka - 560037",Delivered,Amazon
+412,11108,2024-09-21,2024-09-22,2024-09-25,UPI,"20, Mumbai, Maharashtra - 400089",Delivered,Amazon
+413,812,2025-07-05,2025-07-06,2025-07-16,"Credit Card","184, Surat, Gujarat - 395028",Delivered,Amazon
+414,9939,2024-01-28,2024-01-28,2024-01-31,"Cash on Delivery","151, Bhopal, Madhya Pradesh - 462099",Delivered,Amazon
+415,9882,2025-05-21,2025-05-28,2025-06-03,"Cash on Delivery","174, Kanpur, Uttar Pradesh - 208030",Delivered,Amazon
+416,11381,2024-06-29,2024-06-30,2024-07-04,UPI,"128, Lucknow, Uttar Pradesh - 226073",Returned,Amazon
+417,9228,2024-10-10,2024-10-10,2024-10-13,UPI,"63, New Delhi, Delhi - 110077",Delivered,Amazon
+418,1085,2025-05-22,2025-05-23,2025-05-28,"Cash on Delivery","18, Mumbai, Maharashtra - 400007",Returned,"Retail Partner"
+419,821,2025-01-14,2025-01-16,2025-01-21,UPI,"95, Jaipur, Rajasthan - 302074",Delivered,"Retail Partner"
+420,5073,2025-06-26,2025-06-27,2025-06-29,UPI,"88, Hyderabad, Telangana - 500026",Delivered,"Retail Partner"
+421,3389,2024-12-25,2024-12-28,2024-12-31,"Cash on Delivery","118, Chandigarh, Chandigarh - 160017",Delivered,"Retail Partner"
+422,10258,2024-08-06,2024-08-07,2024-08-13,UPI,"53, Chandigarh, Chandigarh - 160084",Delivered,"Retail Partner"
+423,344,2025-04-01,2025-04-03,2025-04-07,"Credit Card","119, Ahmedabad, Gujarat - 380001",Delivered,"Retail Partner"
+424,1307,2024-04-20,2024-04-22,2024-04-24,UPI,"140, Ahmedabad, Gujarat - 380006",Delivered,"Retail Partner"
+425,1024,2024-03-17,2024-03-22,2024-03-24,"Debit Card","62, Bengaluru, Karnataka - 560098",Delivered,"Retail Partner"
+426,10750,2024-10-04,2024-10-05,2024-10-09,"Cash on Delivery","55, Indore, Madhya Pradesh - 452039",Delivered,"Retail Partner"
+427,6390,2025-01-21,2025-01-22,2025-01-25,"Cash on Delivery","196, Hyderabad, Telangana - 500090",Delivered,"Retail Partner"
+428,5985,2024-08-20,2024-08-21,2024-08-25,UPI,"140, Jaipur, Rajasthan - 302043",Delivered,"Retail Partner"
+429,502,2024-08-22,2024-08-23,2024-08-26,UPI,"188, Kanpur, Uttar Pradesh - 208020",Shipped,"Retail Partner"
+430,2688,2025-04-25,2025-05-02,2025-05-04,Wallet,"152, Chandigarh, Chandigarh - 160077",Delivered,"Retail Partner"
+431,6824,2024-05-01,2024-05-06,2024-05-09,"Cash on Delivery","163, Surat, Gujarat - 395035",Delivered,"Retail Partner"
+432,4668,2025-03-27,2025-03-28,2025-04-01,"Credit Card","132, Bengaluru, Karnataka - 560084",Delivered,"Retail Partner"
+433,5011,2025-07-10,2025-07-12,2025-07-17,"Debit Card","9, Indore, Madhya Pradesh - 452062",Delivered,"Retail Partner"
+434,2606,2025-05-21,2025-05-25,2025-06-01,"Credit Card","53, Bengaluru, Karnataka - 560056",Delivered,"Retail Partner"
+435,8582,2025-05-13,2025-05-13,2025-05-19,"Debit Card","19, Bengaluru, Karnataka - 560083",Delivered,"Retail Partner"
+436,231,2025-05-22,2025-05-24,2025-05-27,"Credit Card","119, Ahmedabad, Gujarat - 380094",Delivered,"Retail Partner"
+437,7328,2024-10-23,2024-10-25,2024-11-01,"Credit Card","80, Nagpur, Maharashtra - 440070",Delivered,"Retail Partner"
+438,2273,2025-05-26,2025-05-28,2025-05-31,UPI,"28, Pune, Maharashtra - 411020",Returned,"Retail Partner"
+439,2421,2024-04-30,2024-04-30,2024-05-02,UPI,"122, Pune, Maharashtra - 411066",Delivered,"Retail Partner"
+440,5726,2024-08-18,2024-08-21,2024-08-25,"Cash on Delivery","192, Mumbai, Maharashtra - 400012",Delivered,"Retail Partner"
+441,1572,2024-02-20,2024-02-22,2024-02-26,UPI,"54, Jaipur, Rajasthan - 302024",Delivered,"Retail Partner"
+442,9341,2024-04-27,2024-04-29,2024-05-02,Wallet,"99, Hyderabad, Telangana - 500097",Delivered,"Retail Partner"
+443,308,2025-05-29,2025-06-01,2025-06-04,UPI,"23, Chennai, Tamil Nadu - 600063",Delivered,"Retail Partner"
+444,11564,2024-07-07,2024-07-07,2024-07-12,UPI,"32, Surat, Gujarat - 395085",Delivered,"Retail Partner"
+445,1060,2025-01-06,2025-01-06,2025-01-08,"Credit Card","130, Lucknow, Uttar Pradesh - 226081",Returned,"Retail Partner"
+446,1571,2024-12-30,2024-12-31,2025-01-02,"Credit Card","34, Gurugram, Haryana - 122085",Delivered,"Retail Partner"
+447,6516,2024-11-16,2024-11-18,2024-11-23,"Debit Card","150, Nagpur, Maharashtra - 440057",Delivered,"Retail Partner"
+448,11353,2024-05-07,2024-05-07,2024-05-09,"Debit Card","17, Nagpur, Maharashtra - 440062",Delivered,"Retail Partner"
+449,11055,2024-07-27,2024-07-28,2024-07-30,UPI,"191, Ahmedabad, Gujarat - 380050",Shipped,"Retail Partner"
+450,8309,2025-05-24,2025-05-24,2025-05-26,UPI,"191, Noida, Uttar Pradesh - 201326",Cancelled,"Retail Partner"
+451,4337,2025-04-10,2025-04-13,2025-04-15,UPI,"117, Gurugram, Haryana - 122026",Delivered,"Retail Partner"
+452,7408,2024-04-06,2024-04-08,2024-04-13,"Credit Card","49, Surat, Gujarat - 395008",Delivered,"Retail Partner"
+453,11708,2024-05-17,2024-05-18,2024-05-22,"Debit Card","102, New Delhi, Delhi - 110068",Delivered,"Retail Partner"
+454,6988,2024-07-20,2024-07-21,2024-07-26,"Cash on Delivery","177, Ahmedabad, Gujarat - 380028",Shipped,"Retail Partner"
+455,4745,2025-03-28,2025-03-30,2025-04-01,Wallet,"7, Kanpur, Uttar Pradesh - 208026",Returned,"Retail Partner"
+456,3317,2024-04-11,2024-04-11,2024-04-13,Wallet,"113, Patna, Bihar - 800057",Delivered,"Retail Partner"
+457,1004,2024-01-31,2024-02-04,2024-02-09,UPI,"32, Kolkata, West Bengal - 700063",Delivered,"Retail Partner"
+458,10042,2024-12-24,2024-12-26,2024-12-30,"Cash on Delivery","192, Bhopal, Madhya Pradesh - 462071",Delivered,"Retail Partner"
+459,1274,2024-10-23,2024-10-25,2024-10-31,"Debit Card","92, Jaipur, Rajasthan - 302073",Delivered,"Retail Partner"
+460,9956,2025-07-04,2025-07-07,2025-07-11,UPI,"99, Patna, Bihar - 800017",Delivered,"Retail Partner"
+461,1212,2024-08-25,2024-08-26,2024-08-28,"Debit Card","91, Nagpur, Maharashtra - 440043",Delivered,"Retail Partner"
+462,2414,2024-05-21,2024-05-21,2024-05-28,UPI,"146, Vadodara, Gujarat - 390040",Delivered,"Retail Partner"
+463,7295,2024-02-18,2024-02-18,2024-02-22,UPI,"106, Chennai, Tamil Nadu - 600091",Cancelled,"Retail Partner"
+464,2672,2025-07-01,2025-07-01,2025-07-05,Wallet,"21, Nagpur, Maharashtra - 440013",Shipped,"Retail Partner"
+465,6196,2024-06-09,2024-06-11,2024-06-13,UPI,"79, Pune, Maharashtra - 411096",Delivered,"Retail Partner"
+466,294,2024-02-23,2024-02-23,2024-02-28,"Debit Card","6, Jaipur, Rajasthan - 302069",Shipped,"Retail Partner"
+467,5192,2024-10-04,2024-10-06,2024-10-12,"Debit Card","46, Gurugram, Haryana - 122005",Delivered,"Retail Partner"
+468,2552,2024-11-14,2024-11-16,2024-11-21,UPI,"174, Kolkata, West Bengal - 700041",Delivered,"Retail Partner"
+469,1968,2025-06-22,2025-06-22,2025-06-26,"Credit Card","68, Noida, Uttar Pradesh - 201390",Delivered,"Retail Partner"
+470,5803,2025-03-17,2025-03-17,2025-03-19,"Credit Card","133, Jaipur, Rajasthan - 302057",Delivered,"Retail Partner"
+471,2912,2025-08-24,2025-08-25,2025-08-28,"Debit Card","11, Chennai, Tamil Nadu - 600063",Shipped,"Retail Partner"
+472,1544,2025-03-27,2025-03-27,2025-03-29,UPI,"119, Lucknow, Uttar Pradesh - 226076",Delivered,"Retail Partner"
+473,3748,2025-08-11,2025-08-11,2025-08-13,"Credit Card","1, Ahmedabad, Gujarat - 380098",Delivered,"Retail Partner"
+474,8055,2025-01-26,2025-01-26,2025-01-30,UPI,"44, Chandigarh, Chandigarh - 160048",Shipped,"Retail Partner"
+475,1351,2025-03-06,2025-03-07,2025-03-12,UPI,"99, Lucknow, Uttar Pradesh - 226063",Cancelled,"Retail Partner"
+476,9783,2024-02-02,2024-02-04,2024-02-10,UPI,"124, Gurugram, Haryana - 122085",Delivered,"Retail Partner"
+477,6695,2024-01-10,2024-01-11,2024-01-13,UPI,"7, Chennai, Tamil Nadu - 600071",Delivered,"Retail Partner"
+478,2659,2024-06-14,2024-06-14,2024-06-17,Wallet,"189, Mumbai, Maharashtra - 400001",Delivered,"Retail Partner"
+479,5401,2024-04-05,2024-04-07,2024-04-13,UPI,"185, New Delhi, Delhi - 110042",Shipped,"Retail Partner"
+480,4691,2025-05-18,2025-05-19,2025-05-26,UPI,"167, Noida, Uttar Pradesh - 201374",Delivered,"Retail Partner"
+481,9292,2025-06-07,2025-06-07,2025-06-14,"Cash on Delivery","90, Ahmedabad, Gujarat - 380090",Delivered,"Retail Partner"
+482,2311,2024-07-03,2024-07-03,2024-07-06,UPI,"98, Bhopal, Madhya Pradesh - 462059",Returned,"Retail Partner"
+483,2565,2025-09-01,2025-09-04,2025-09-08,"Cash on Delivery","62, New Delhi, Delhi - 110075",Delivered,"Retail Partner"
+484,11226,2025-08-24,2025-08-24,2025-08-30,"Debit Card","72, Kolkata, West Bengal - 700024",Delivered,"Retail Partner"
+485,483,2024-01-08,2024-01-11,2024-01-13,UPI,"197, Nagpur, Maharashtra - 440070",Delivered,"Retail Partner"
+486,3413,2024-05-21,2024-05-22,2024-05-25,"Debit Card","71, Gurugram, Haryana - 122075",Delivered,"Retail Partner"
+487,1415,2024-03-07,2024-03-07,2024-03-12,"Cash on Delivery","113, Ahmedabad, Gujarat - 380090",Delivered,"Retail Partner"
+488,5483,2024-04-15,2024-04-15,2024-04-18,UPI,"33, Chandigarh, Chandigarh - 160048",Delivered,"boAt App"
+489,7945,2024-08-07,2024-08-08,2024-08-10,UPI,"6, Hyderabad, Telangana - 500055",Delivered,"boAt App"
+490,11760,2024-03-07,2024-03-08,2024-03-13,UPI,"54, Kanpur, Uttar Pradesh - 208057",Delivered,"boAt App"
+491,7277,2024-07-10,2024-07-10,2024-07-13,UPI,"70, Bengaluru, Karnataka - 560075",Delivered,"boAt App"
+492,6635,2024-02-01,2024-02-02,2024-02-09,UPI,"168, Chennai, Tamil Nadu - 600004",Delivered,"boAt App"
+493,6693,2024-12-03,2024-12-05,2024-12-07,"Credit Card","84, Lucknow, Uttar Pradesh - 226079",Delivered,"boAt App"
+494,10749,2025-06-14,2025-06-15,2025-06-19,UPI,"43, Bengaluru, Karnataka - 560017",Delivered,"boAt App"
+495,3850,2025-08-16,2025-08-17,2025-08-20,Wallet,"40, Gurugram, Haryana - 122017",Delivered,"boAt App"
+496,11529,2024-10-25,2024-10-27,2024-10-30,UPI,"161, Kanpur, Uttar Pradesh - 208048",Delivered,"boAt App"
+497,2438,2024-09-16,2024-09-21,2024-09-23,UPI,"97, Chennai, Tamil Nadu - 600025",Cancelled,"boAt App"
+498,9091,2024-10-31,2024-11-05,2024-11-09,UPI,"120, Hyderabad, Telangana - 500003",Cancelled,"boAt App"
+499,11308,2024-06-22,2024-06-25,2024-07-09,"Debit Card","59, Chandigarh, Chandigarh - 160000",Returned,"boAt App"
+500,10890,2024-01-12,2024-01-13,2024-01-18,UPI,"59, Pune, Maharashtra - 411021",Delivered,"boAt App"
+501,5161,2025-01-04,2025-01-04,2025-01-06,UPI,"22, Chennai, Tamil Nadu - 600027",Shipped,"boAt App"
+502,1026,2024-06-17,2024-06-18,2024-06-28,UPI,"36, Indore, Madhya Pradesh - 452004",Delivered,"boAt App"
+503,7671,2025-02-22,2025-02-22,2025-02-26,UPI,"187, Indore, Madhya Pradesh - 452057",Delivered,"boAt App"
+504,5240,2024-06-18,2024-06-22,2024-06-24,UPI,"151, Vadodara, Gujarat - 390058",Delivered,"boAt App"
+505,4229,2025-08-28,2025-08-28,2025-09-02,UPI,"11, Chennai, Tamil Nadu - 600092",Delivered,"boAt App"
+506,10838,2025-04-10,2025-04-10,2025-04-13,UPI,"150, Kanpur, Uttar Pradesh - 208074",Delivered,"boAt App"
+507,1845,2024-01-26,2024-01-26,2024-01-28,UPI,"129, Nagpur, Maharashtra - 440037",Delivered,"boAt App"
+508,644,2025-08-17,2025-08-17,2025-08-20,UPI,"112, Kanpur, Uttar Pradesh - 208096",Delivered,"boAt App"
+509,1681,2025-03-14,2025-03-14,2025-03-18,Wallet,"13, Nagpur, Maharashtra - 440094",Delivered,"boAt App"
+510,9087,2025-01-12,2025-01-13,2025-01-18,"Debit Card","107, Kolkata, West Bengal - 700096",Delivered,"boAt App"
+511,7370,2024-11-23,2024-11-24,2024-11-30,"Cash on Delivery","187, Lucknow, Uttar Pradesh - 226044",Delivered,"boAt App"
+512,10051,2024-11-11,2024-11-12,2024-11-18,UPI,"74, Surat, Gujarat - 395000",Delivered,"boAt App"
+513,1540,2024-12-02,2024-12-04,2024-12-06,Wallet,"93, Hyderabad, Telangana - 500073",Delivered,"boAt App"
+514,1145,2025-03-24,2025-03-27,2025-03-30,"Credit Card","106, Nagpur, Maharashtra - 440077",Delivered,"boAt App"
+515,9788,2025-08-16,2025-08-19,2025-08-24,UPI,"136, Mumbai, Maharashtra - 400014",Delivered,"boAt App"
+516,10009,2024-12-20,2024-12-21,2024-12-23,"Debit Card","51, Noida, Uttar Pradesh - 201309",Cancelled,"boAt App"
+517,10445,2024-08-23,2024-08-23,2024-08-28,UPI,"26, Noida, Uttar Pradesh - 201321",Delivered,"boAt App"
+518,9631,2024-12-11,2024-12-12,2024-12-17,UPI,"43, Kolkata, West Bengal - 700021",Delivered,"boAt App"
+519,7895,2025-04-03,2025-04-08,2025-04-11,"Credit Card","26, Vadodara, Gujarat - 390088",Delivered,"boAt App"
+520,2961,2025-04-22,2025-04-22,2025-04-27,"Credit Card","170, Bengaluru, Karnataka - 560088",Returned,"boAt App"
+521,662,2024-03-23,2024-03-24,2024-03-28,"Debit Card","99, Bhopal, Madhya Pradesh - 462016",Delivered,"boAt App"
+522,9215,2025-08-11,2025-08-14,2025-08-20,UPI,"23, Gurugram, Haryana - 122076",Cancelled,"boAt App"
+523,4760,2025-05-05,2025-05-10,2025-05-16,UPI,"113, Bengaluru, Karnataka - 560052",Delivered,"boAt App"
+524,9216,2025-04-22,2025-04-25,2025-05-05,UPI,"116, Kanpur, Uttar Pradesh - 208089",Delivered,"boAt App"
+525,8002,2025-01-28,2025-01-28,2025-01-31,Wallet,"123, Noida, Uttar Pradesh - 201333",Delivered,"boAt App"
+526,9552,2024-10-05,2024-10-05,2024-10-15,UPI,"197, Mumbai, Maharashtra - 400088",Delivered,"boAt App"
+527,6409,2024-06-14,2024-06-15,2024-06-22,UPI,"31, Ahmedabad, Gujarat - 380012",Shipped,"boAt App"
+528,11542,2024-01-29,2024-02-03,2024-02-09,UPI,"113, Patna, Bihar - 800014",Delivered,"boAt App"
+529,10991,2025-06-19,2025-06-23,2025-06-26,"Cash on Delivery","176, Hyderabad, Telangana - 500079",Delivered,"boAt App"
+530,368,2024-03-04,2024-03-04,2024-03-07,"Credit Card","33, New Delhi, Delhi - 110085",Delivered,"boAt App"
+531,2911,2024-02-04,2024-02-05,2024-02-09,UPI,"63, Chennai, Tamil Nadu - 600056",Delivered,Amazon
+532,1693,2024-11-13,2024-11-13,2024-11-15,UPI,"63, Mumbai, Maharashtra - 400066",Delivered,Flipkart
+533,10019,2025-02-21,2025-02-25,2025-03-02,Wallet,"106, Bhopal, Madhya Pradesh - 462093",Delivered,"boAt App"
+534,8211,2024-12-07,2024-12-09,2024-12-11,"Credit Card","196, Mumbai, Maharashtra - 400063",Delivered,"boAt App"
+535,8440,2024-05-14,2024-05-16,2024-05-20,"Credit Card","91, Nagpur, Maharashtra - 440012",Cancelled,"boAt App"
+536,9992,2024-01-08,2024-01-15,2024-01-19,"Credit Card","32, Lucknow, Uttar Pradesh - 226091",Delivered,"boAt App"
+537,11391,2025-07-22,2025-07-23,2025-07-25,"Debit Card","32, Indore, Madhya Pradesh - 452030",Delivered,"boAt App"
+538,4213,2025-08-21,2025-08-22,2025-08-29,"Credit Card","45, Indore, Madhya Pradesh - 452087",Delivered,"boAt App"
+539,489,2024-08-21,2024-08-21,2024-08-24,"Cash on Delivery","8, Gurugram, Haryana - 122071",Delivered,Amazon
+540,7408,2024-01-24,2024-01-24,2024-01-30,"Credit Card","40, Surat, Gujarat - 395008",Delivered,Amazon
+541,3667,2024-05-27,2024-06-01,2024-06-03,UPI,"152, Pune, Maharashtra - 411023",Delivered,Amazon
+542,7811,2025-09-08,2025-09-08,2025-09-13,UPI,"133, Vadodara, Gujarat - 390001",Delivered,Amazon
+543,8975,2024-08-27,2024-08-28,2024-09-03,"Debit Card","181, Kanpur, Uttar Pradesh - 208020",Delivered,Amazon
+544,11429,2024-11-07,2024-11-09,2024-11-11,"Debit Card","34, Bhopal, Madhya Pradesh - 462039",Delivered,Amazon
+545,11910,2024-01-22,2024-01-22,2024-01-26,UPI,"37, Nagpur, Maharashtra - 440087",Delivered,Amazon
+546,8718,2025-05-24,2025-05-29,2025-06-03,UPI,"101, Indore, Madhya Pradesh - 452050",Delivered,Flipkart
+547,2315,2024-04-09,2024-04-09,2024-04-13,"Debit Card","25, Vadodara, Gujarat - 390003",Delivered,"Quick Commerce"
+548,4000,2024-04-29,2024-04-29,2024-05-02,UPI,"1, Hyderabad, Telangana - 500083",Delivered,"Quick Commerce"
+549,3324,2024-11-19,2024-11-21,2024-11-26,"Credit Card","152, Kanpur, Uttar Pradesh - 208060",Delivered,"Quick Commerce"
+550,11626,2024-05-04,2024-05-05,2024-05-09,UPI,"167, Gurugram, Haryana - 122005",Delivered,"Quick Commerce"
+551,2757,2024-05-13,2024-05-18,2024-05-22,UPI,"62, Chennai, Tamil Nadu - 600093",Cancelled,"Quick Commerce"
+552,2997,2025-05-06,2025-05-07,2025-05-21,UPI,"145, Pune, Maharashtra - 411095",Delivered,"Quick Commerce"
+553,11353,2024-02-16,2024-02-17,2024-02-27,"Credit Card","84, Nagpur, Maharashtra - 440062",Delivered,"Quick Commerce"
+554,5535,2025-01-21,2025-01-23,2025-01-28,"Debit Card","63, New Delhi, Delhi - 110022",Returned,"Quick Commerce"
+555,2995,2024-02-27,2024-02-28,2024-03-02,Wallet,"84, Kanpur, Uttar Pradesh - 208017",Delivered,"Quick Commerce"
+556,2950,2024-11-26,2024-11-27,2024-12-02,UPI,"77, Bengaluru, Karnataka - 560048",Delivered,"Quick Commerce"
+557,5315,2025-01-05,2025-01-06,2025-01-09,UPI,"196, Mumbai, Maharashtra - 400072",Delivered,"Quick Commerce"
+558,5048,2024-03-25,2024-03-30,2024-04-01,"Credit Card","36, Chennai, Tamil Nadu - 600006",Cancelled,Flipkart
+559,4657,2025-06-14,2025-06-16,2025-06-22,"Credit Card","85, Chandigarh, Chandigarh - 160076",Delivered,Amazon
+560,10663,2024-02-16,2024-02-18,2024-02-21,UPI,"160, Surat, Gujarat - 395051",Delivered,"Quick Commerce"
+561,2373,2025-02-11,2025-02-11,2025-02-14,UPI,"164, Chandigarh, Chandigarh - 160040",Delivered,"Quick Commerce"
+562,10296,2024-03-26,2024-03-27,2024-04-03,UPI,"116, Surat, Gujarat - 395057",Delivered,Flipkart
+563,2067,2024-01-10,2024-01-14,2024-01-19,UPI,"144, Chennai, Tamil Nadu - 600030",Delivered,Amazon
+564,1757,2024-02-11,2024-02-16,2024-02-18,UPI,"13, Noida, Uttar Pradesh - 201337",Delivered,"Quick Commerce"
+565,10665,2025-08-24,2025-08-25,2025-08-28,UPI,"41, Ahmedabad, Gujarat - 380046",Delivered,Amazon
+566,7801,2025-06-29,2025-06-30,2025-07-04,"Cash on Delivery","99, Indore, Madhya Pradesh - 452056",Delivered,Flipkart
+567,490,2024-08-04,2024-08-04,2024-08-10,Wallet,"26, Surat, Gujarat - 395062",Delivered,Amazon
+568,6176,2025-02-09,2025-02-11,2025-02-15,"Debit Card","137, Indore, Madhya Pradesh - 452061",Delivered,"Quick Commerce"
+569,10056,2024-05-15,2024-05-20,2024-05-23,"Debit Card","114, Patna, Bihar - 800099",Delivered,Amazon
+570,11042,2025-06-19,2025-06-21,2025-06-25,Wallet,"161, New Delhi, Delhi - 110056",Shipped,Flipkart
+571,8086,2024-01-14,2024-01-15,2024-01-20,UPI,"66, Chandigarh, Chandigarh - 160067",Delivered,Amazon
+572,3968,2024-04-19,2024-04-20,2024-04-22,UPI,"20, Vadodara, Gujarat - 390047",Delivered,"Quick Commerce"
+573,10233,2024-07-08,2024-07-09,2024-07-11,Wallet,"181, Vadodara, Gujarat - 390048",Returned,Flipkart
+574,1351,2025-01-28,2025-01-30,2025-02-06,Wallet,"42, Lucknow, Uttar Pradesh - 226063",Shipped,Amazon
+575,3213,2024-05-27,2024-05-29,2024-05-31,"Credit Card","181, Gurugram, Haryana - 122077",Delivered,Flipkart
+576,7627,2024-10-05,2024-10-08,2024-10-13,"Debit Card","28, Jaipur, Rajasthan - 302046",Delivered,Flipkart
+577,3949,2025-02-24,2025-02-24,2025-03-02,"Credit Card","137, Nagpur, Maharashtra - 440080",Delivered,Flipkart
+578,1811,2024-10-05,2024-10-08,2024-10-12,"Credit Card","107, Patna, Bihar - 800075",Delivered,Flipkart
+579,11278,2025-05-21,2025-05-23,2025-05-28,UPI,"45, Pune, Maharashtra - 411095",Delivered,Flipkart
+580,3586,2024-12-20,2024-12-21,2024-12-25,UPI,"76, Chandigarh, Chandigarh - 160000",Delivered,Flipkart
+581,2473,2025-03-03,2025-03-05,2025-03-10,UPI,"17, Vadodara, Gujarat - 390026",Delivered,Amazon
+582,1810,2024-12-10,2024-12-14,2024-12-17,UPI,"79, Ahmedabad, Gujarat - 380077",Delivered,Amazon
+583,3687,2024-03-29,2024-03-31,2024-04-02,Wallet,"141, Vadodara, Gujarat - 390080",Delivered,Amazon
+584,5492,2025-06-25,2025-06-26,2025-07-03,"Credit Card","142, Jaipur, Rajasthan - 302022",Delivered,Amazon
+585,6173,2025-06-26,2025-06-27,2025-07-07,Wallet,"134, Lucknow, Uttar Pradesh - 226066",Delivered,"Quick Commerce"
+586,3502,2025-06-02,2025-06-04,2025-06-08,UPI,"47, Surat, Gujarat - 395085",Delivered,"Quick Commerce"
+587,8563,2024-06-04,2024-06-05,2024-06-08,"Debit Card","10, Gurugram, Haryana - 122091",Delivered,"Quick Commerce"
+588,2844,2024-12-04,2024-12-08,2024-12-14,UPI,"74, Pune, Maharashtra - 411042",Delivered,"Quick Commerce"
+589,398,2024-11-12,2024-11-13,2024-11-15,UPI,"101, Hyderabad, Telangana - 500001",Delivered,"Quick Commerce"
+590,5548,2024-10-05,2024-10-08,2024-10-11,UPI,"125, Chennai, Tamil Nadu - 600040",Shipped,"Quick Commerce"
+591,5622,2025-07-22,2025-07-25,2025-07-27,Wallet,"100, Chandigarh, Chandigarh - 160074",Delivered,"Quick Commerce"
+592,10836,2024-05-24,2024-05-28,2024-06-01,"Credit Card","45, Kanpur, Uttar Pradesh - 208024",Delivered,"Quick Commerce"
+593,4564,2024-09-11,2024-09-12,2024-09-16,UPI,"6, Noida, Uttar Pradesh - 201346",Delivered,"Quick Commerce"
+594,10127,2025-08-07,2025-08-08,2025-08-14,"Debit Card","167, Patna, Bihar - 800027",Delivered,"Quick Commerce"
+595,9039,2024-10-18,2024-10-19,2024-10-22,"Debit Card","91, Lucknow, Uttar Pradesh - 226057",Delivered,"Quick Commerce"
+596,9936,2024-06-01,2024-06-02,2024-06-07,UPI,"124, Chennai, Tamil Nadu - 600063",Delivered,"Quick Commerce"
+597,9065,2025-06-16,2025-06-16,2025-06-19,UPI,"130, Indore, Madhya Pradesh - 452048",Delivered,"Quick Commerce"
+598,4564,2025-05-30,2025-05-31,2025-06-05,"Credit Card","16, Noida, Uttar Pradesh - 201346",Delivered,"Quick Commerce"
+599,5645,2024-06-05,2024-06-08,2024-06-18,"Debit Card","66, New Delhi, Delhi - 110054",Delivered,"Quick Commerce"
+600,2688,2024-06-16,2024-06-16,2024-06-21,UPI,"82, Chandigarh, Chandigarh - 160077",Delivered,"Quick Commerce"
+601,6020,2024-10-24,2024-10-26,2024-10-31,UPI,"2, Noida, Uttar Pradesh - 201393",Delivered,"Quick Commerce"
+602,9315,2025-05-05,2025-05-09,2025-05-16,"Credit Card","103, Mumbai, Maharashtra - 400015",Delivered,"Quick Commerce"
+603,196,2025-01-24,2025-01-24,2025-01-29,"Credit Card","145, Nagpur, Maharashtra - 440024",Delivered,"Quick Commerce"
+604,10704,2025-01-27,2025-01-29,2025-02-01,Wallet,"111, Gurugram, Haryana - 122011",Returned,Amazon
+605,8358,2024-11-06,2024-11-09,2024-11-15,UPI,"197, Pune, Maharashtra - 411053",Delivered,Amazon
+606,1383,2024-11-11,2024-11-12,2024-11-15,Wallet,"4, Nagpur, Maharashtra - 440025",Delivered,Amazon
+607,4349,2025-04-22,2025-04-22,2025-04-27,"Credit Card","21, Kanpur, Uttar Pradesh - 208045",Shipped,Amazon
+608,6436,2024-10-31,2024-11-01,2024-11-06,UPI,"139, Bengaluru, Karnataka - 560081",Delivered,Amazon
+609,4585,2024-09-27,2024-09-28,2024-10-02,"Credit Card","179, Ahmedabad, Gujarat - 380000",Delivered,Amazon
+610,5334,2025-04-14,2025-04-18,2025-04-23,UPI,"61, Vadodara, Gujarat - 390054",Delivered,Amazon
+611,6958,2024-05-01,2024-05-03,2024-05-06,UPI,"134, Nagpur, Maharashtra - 440000",Delivered,Amazon
+612,5176,2025-05-26,2025-05-26,2025-05-29,Wallet,"44, New Delhi, Delhi - 110075",Delivered,Amazon
+613,2315,2024-12-09,2024-12-10,2024-12-12,"Debit Card","67, Vadodara, Gujarat - 390003",Delivered,Amazon
+614,2996,2025-07-25,2025-07-27,2025-07-30,"Credit Card","49, Chennai, Tamil Nadu - 600093",Delivered,Amazon
+615,2941,2024-11-25,2024-11-26,2024-11-29,"Debit Card","169, Vadodara, Gujarat - 390056",Delivered,Amazon
+616,8895,2024-02-15,2024-02-17,2024-02-20,UPI,"133, Mumbai, Maharashtra - 400072",Delivered,Amazon
+617,10434,2024-07-14,2024-07-16,2024-07-26,UPI,"141, Hyderabad, Telangana - 500059",Delivered,Amazon
+618,5208,2024-09-10,2024-09-11,2024-09-18,"Debit Card","133, Ahmedabad, Gujarat - 380010",Cancelled,Amazon
+619,10265,2024-06-12,2024-06-13,2024-06-17,UPI,"128, Patna, Bihar - 800027",Delivered,Amazon
+620,8744,2025-05-23,2025-05-25,2025-05-30,UPI,"144, Bhopal, Madhya Pradesh - 462061",Delivered,Amazon
+621,11394,2024-10-17,2024-10-17,2024-10-23,"Cash on Delivery","146, Patna, Bihar - 800033",Delivered,Amazon
+622,3898,2024-11-05,2024-11-05,2024-11-09,"Cash on Delivery","22, Patna, Bihar - 800025",Returned,Amazon
+623,7416,2024-09-20,2024-09-22,2024-09-26,"Credit Card","9, Mumbai, Maharashtra - 400060",Delivered,Amazon
+624,1289,2024-06-18,2024-06-22,2024-06-27,"Debit Card","60, Mumbai, Maharashtra - 400018",Delivered,Amazon
+625,11560,2025-06-21,2025-06-21,2025-06-28,UPI,"140, Chandigarh, Chandigarh - 160085",Delivered,Amazon
+626,10333,2025-01-11,2025-01-13,2025-01-16,"Cash on Delivery","91, Indore, Madhya Pradesh - 452031",Returned,Amazon
+627,10511,2025-02-11,2025-02-14,2025-02-18,"Credit Card","195, Ahmedabad, Gujarat - 380056",Delivered,Amazon
+628,340,2024-10-31,2024-11-02,2024-11-07,UPI,"83, Kolkata, West Bengal - 700078",Delivered,Amazon
+629,9051,2024-10-27,2024-11-03,2024-11-05,Wallet,"147, Nagpur, Maharashtra - 440067",Delivered,Amazon
+630,1900,2025-01-20,2025-01-23,2025-01-28,"Debit Card","52, Kanpur, Uttar Pradesh - 208090",Delivered,Amazon
+631,8487,2025-04-22,2025-04-26,2025-04-29,Wallet,"59, Lucknow, Uttar Pradesh - 226075",Shipped,Amazon
+632,3823,2025-01-13,2025-01-14,2025-01-18,"Cash on Delivery","120, Chandigarh, Chandigarh - 160034",Shipped,Amazon
+633,227,2024-03-27,2024-03-28,2024-04-01,"Cash on Delivery","85, Pune, Maharashtra - 411064",Delivered,Amazon
+634,1050,2024-02-07,2024-02-07,2024-02-14,"Cash on Delivery","198, Jaipur, Rajasthan - 302099",Delivered,Amazon
+635,8545,2024-02-19,2024-02-23,2024-02-27,"Credit Card","65, Hyderabad, Telangana - 500048",Delivered,Amazon
+636,2357,2025-06-15,2025-06-16,2025-06-21,"Cash on Delivery","47, Chennai, Tamil Nadu - 600057",Delivered,Amazon
+637,6632,2024-03-31,2024-03-31,2024-04-05,Wallet,"29, Chandigarh, Chandigarh - 160018",Shipped,Amazon
+638,7368,2024-10-13,2024-10-13,2024-10-17,"Debit Card","84, Kanpur, Uttar Pradesh - 208047",Delivered,Amazon
+639,3103,2024-05-21,2024-05-23,2024-05-26,UPI,"76, Nagpur, Maharashtra - 440012",Shipped,Amazon
+640,11764,2025-03-11,2025-03-13,2025-03-19,"Debit Card","118, Kanpur, Uttar Pradesh - 208058",Cancelled,Amazon
+641,2307,2025-09-05,2025-09-08,2025-09-12,UPI,"181, Hyderabad, Telangana - 500070",Delivered,Amazon
+642,10363,2025-05-14,2025-05-17,2025-05-22,UPI,"37, Pune, Maharashtra - 411060",Delivered,Amazon
+643,4300,2024-12-14,2024-12-18,2024-12-23,"Debit Card","3, Pune, Maharashtra - 411058",Delivered,Amazon
+644,8601,2024-03-26,2024-03-28,2024-03-31,"Credit Card","182, Chandigarh, Chandigarh - 160059",Delivered,Amazon
+645,10060,2024-04-23,2024-04-24,2024-04-27,"Debit Card","2, New Delhi, Delhi - 110011",Delivered,Amazon
+646,8396,2025-03-28,2025-03-29,2025-04-05,UPI,"168, Ahmedabad, Gujarat - 380017",Delivered,Amazon
+647,6805,2025-04-06,2025-04-13,2025-04-15,"Cash on Delivery","183, Gurugram, Haryana - 122002",Delivered,Amazon
+648,5539,2024-04-29,2024-05-02,2024-05-09,"Credit Card","128, Noida, Uttar Pradesh - 201367",Returned,Amazon
+649,483,2025-07-04,2025-07-04,2025-07-07,UPI,"10, Nagpur, Maharashtra - 440070",Delivered,Amazon
+650,8620,2024-03-22,2024-03-27,2024-04-01,Wallet,"27, Kolkata, West Bengal - 700075",Delivered,Amazon
+651,7607,2025-05-27,2025-05-31,2025-06-02,UPI,"180, Kolkata, West Bengal - 700056",Delivered,Amazon
+652,5066,2024-01-04,2024-01-07,2024-01-12,"Debit Card","130, Bhopal, Madhya Pradesh - 462069",Delivered,Amazon
+653,9965,2024-03-16,2024-03-18,2024-03-21,"Credit Card","97, Vadodara, Gujarat - 390048",Delivered,Amazon
+654,4878,2024-08-18,2024-08-18,2024-08-20,UPI,"198, Chennai, Tamil Nadu - 600044",Delivered,Amazon
+655,10522,2024-09-09,2024-09-13,2024-09-15,"Cash on Delivery","81, Ahmedabad, Gujarat - 380088",Delivered,Amazon
+656,960,2025-02-01,2025-02-03,2025-02-05,"Debit Card","84, Hyderabad, Telangana - 500066",Delivered,Amazon
+657,3449,2025-05-12,2025-05-15,2025-05-19,"Cash on Delivery","95, Hyderabad, Telangana - 500046",Delivered,Amazon
+658,366,2024-05-19,2024-05-19,2024-05-22,"Credit Card","103, Noida, Uttar Pradesh - 201380",Delivered,Amazon
+659,4655,2025-04-14,2025-04-14,2025-04-16,UPI,"74, Patna, Bihar - 800077",Delivered,Amazon
+660,1602,2025-02-11,2025-02-12,2025-02-15,"Credit Card","10, Lucknow, Uttar Pradesh - 226028",Delivered,Amazon
+661,9222,2025-04-26,2025-04-26,2025-04-29,UPI,"108, Kolkata, West Bengal - 700046",Delivered,Amazon
+662,11154,2025-02-06,2025-02-09,2025-02-13,UPI,"115, Surat, Gujarat - 395016",Delivered,Amazon
+663,4200,2024-03-01,2024-03-01,2024-03-06,"Cash on Delivery","142, Mumbai, Maharashtra - 400058",Delivered,Amazon
+664,10370,2024-01-19,2024-01-20,2024-01-24,UPI,"94, Jaipur, Rajasthan - 302021",Delivered,Amazon
+665,1492,2024-01-12,2024-01-12,2024-01-26,"Debit Card","189, New Delhi, Delhi - 110082",Delivered,Amazon
+666,505,2024-09-04,2024-09-06,2024-09-09,"Debit Card","70, Kolkata, West Bengal - 700003",Shipped,Amazon
+667,3359,2025-08-30,2025-08-30,2025-09-05,"Credit Card","164, Indore, Madhya Pradesh - 452084",Delivered,Amazon
+668,1617,2025-04-03,2025-04-04,2025-04-10,"Credit Card","41, Bhopal, Madhya Pradesh - 462068",Delivered,Amazon
+669,7422,2024-09-12,2024-09-13,2024-09-16,UPI,"34, Indore, Madhya Pradesh - 452048",Delivered,Amazon
+670,1133,2025-04-06,2025-04-10,2025-04-15,"Debit Card","167, Jaipur, Rajasthan - 302095",Delivered,Amazon
+671,2434,2024-10-01,2024-10-03,2024-10-07,UPI,"170, Lucknow, Uttar Pradesh - 226035",Delivered,Amazon
+672,619,2024-10-02,2024-10-04,2024-10-10,UPI,"79, Kanpur, Uttar Pradesh - 208004",Delivered,Amazon
+673,3575,2024-08-09,2024-08-12,2024-08-17,"Cash on Delivery","49, Lucknow, Uttar Pradesh - 226026",Delivered,Amazon
+674,11152,2024-10-26,2024-10-26,2024-10-29,UPI,"197, Patna, Bihar - 800039",Delivered,Amazon
+675,1594,2025-04-23,2025-04-26,2025-04-28,UPI,"56, Noida, Uttar Pradesh - 201380",Delivered,Amazon
+676,7280,2025-06-18,2025-06-18,2025-06-21,"Debit Card","179, Ahmedabad, Gujarat - 380070",Delivered,Amazon
+677,7341,2024-09-01,2024-09-02,2024-09-06,UPI,"51, Nagpur, Maharashtra - 440022",Returned,Amazon
+678,730,2024-05-16,2024-05-16,2024-05-22,"Credit Card","156, Mumbai, Maharashtra - 400063",Returned,Amazon
+679,9686,2024-01-11,2024-01-14,2024-01-17,"Cash on Delivery","11, Patna, Bihar - 800048",Returned,Amazon
+680,7871,2025-06-16,2025-06-17,2025-06-20,UPI,"36, Pune, Maharashtra - 411051",Delivered,Amazon
+681,2609,2024-01-03,2024-01-05,2024-01-07,"Credit Card","15, Mumbai, Maharashtra - 400019",Delivered,Amazon
+682,11277,2024-12-17,2024-12-17,2024-12-27,"Credit Card","109, Kolkata, West Bengal - 700050",Delivered,Amazon
+683,6536,2024-03-23,2024-03-26,2024-03-29,UPI,"3, Noida, Uttar Pradesh - 201352",Delivered,Amazon
+684,6817,2025-06-26,2025-06-26,2025-07-01,UPI,"167, Chennai, Tamil Nadu - 600003",Delivered,Amazon
+685,10070,2024-04-01,2024-04-03,2024-04-05,UPI,"171, Patna, Bihar - 800073",Delivered,Amazon
+686,264,2024-05-17,2024-05-19,2024-06-02,"Debit Card","31, Chennai, Tamil Nadu - 600095",Delivered,Amazon
+687,1305,2025-08-22,2025-08-24,2025-08-30,UPI,"70, Nagpur, Maharashtra - 440083",Delivered,Amazon
+688,10488,2024-11-30,2024-11-30,2024-12-05,UPI,"106, Hyderabad, Telangana - 500055",Delivered,Amazon
+689,1682,2024-03-28,2024-03-31,2024-04-03,UPI,"191, Pune, Maharashtra - 411068",Delivered,Amazon
+690,3198,2024-08-14,2024-08-14,2024-08-24,"Debit Card","168, Nagpur, Maharashtra - 440087",Delivered,Amazon
+691,9728,2025-08-10,2025-08-12,2025-08-17,UPI,"114, Ahmedabad, Gujarat - 380075",Delivered,Amazon
+692,446,2025-06-07,2025-06-11,2025-06-13,"Cash on Delivery","87, Bengaluru, Karnataka - 560041",Delivered,Amazon
+693,1760,2024-06-28,2024-06-29,2024-07-04,"Cash on Delivery","39, Vadodara, Gujarat - 390010",Delivered,Amazon
+694,8459,2024-02-04,2024-02-04,2024-02-10,Wallet,"13, Ahmedabad, Gujarat - 380097",Delivered,Amazon
+695,4664,2024-04-28,2024-04-29,2024-05-01,"Debit Card","33, Chandigarh, Chandigarh - 160087",Delivered,Amazon
+696,9052,2025-07-08,2025-07-09,2025-07-13,"Credit Card","6, Indore, Madhya Pradesh - 452003",Delivered,Amazon
+697,9190,2024-01-04,2024-01-09,2024-01-15,"Cash on Delivery","24, Noida, Uttar Pradesh - 201329",Delivered,Amazon
+698,7768,2024-08-17,2024-08-17,2024-08-21,UPI,"88, Mumbai, Maharashtra - 400015",Delivered,Amazon
+699,4321,2024-05-27,2024-05-29,2024-05-31,Wallet,"48, Lucknow, Uttar Pradesh - 226025",Cancelled,Amazon
+700,8606,2024-03-16,2024-03-17,2024-03-19,"Credit Card","65, New Delhi, Delhi - 110015",Delivered,Amazon
+701,3844,2024-06-07,2024-06-08,2024-06-12,"Cash on Delivery","88, Noida, Uttar Pradesh - 201372",Delivered,Amazon
+702,11998,2024-06-18,2024-06-18,2024-06-22,Wallet,"67, Gurugram, Haryana - 122008",Delivered,Amazon
+703,8358,2024-07-17,2024-07-21,2024-07-24,"Debit Card","137, Pune, Maharashtra - 411053",Delivered,Amazon
+704,10268,2025-03-04,2025-03-04,2025-03-07,Wallet,"133, Lucknow, Uttar Pradesh - 226034",Delivered,Amazon
+705,2768,2024-10-31,2024-11-01,2024-11-04,"Debit Card","140, New Delhi, Delhi - 110017",Shipped,Amazon
+706,7016,2024-08-14,2024-08-15,2024-08-19,"Cash on Delivery","143, Jaipur, Rajasthan - 302036",Delivered,Amazon
+707,213,2025-06-15,2025-06-16,2025-06-19,UPI,"43, Patna, Bihar - 800013",Shipped,Amazon
+708,2974,2025-06-04,2025-06-05,2025-06-08,UPI,"27, Nagpur, Maharashtra - 440093",Delivered,Amazon
+709,1137,2025-04-17,2025-04-17,2025-04-22,UPI,"135, Nagpur, Maharashtra - 440097",Delivered,Amazon
+710,949,2024-03-20,2024-03-21,2024-03-25,"Debit Card","32, Pune, Maharashtra - 411088",Delivered,Amazon
+711,11999,2024-04-21,2024-04-21,2024-04-25,UPI,"53, Hyderabad, Telangana - 500014",Shipped,Amazon
+712,4944,2025-03-26,2025-03-27,2025-03-30,Wallet,"83, Indore, Madhya Pradesh - 452063",Returned,Amazon
+713,5889,2024-04-23,2024-04-24,2024-04-28,"Debit Card","76, Kolkata, West Bengal - 700050",Delivered,Amazon
+714,6268,2025-05-17,2025-05-20,2025-05-22,UPI,"181, Indore, Madhya Pradesh - 452072",Delivered,Amazon
+715,10729,2024-05-21,2024-05-25,2024-05-28,UPI,"171, Jaipur, Rajasthan - 302053",Delivered,Amazon
+716,5733,2025-04-19,2025-04-20,2025-04-22,UPI,"135, Kolkata, West Bengal - 700063",Shipped,Amazon
+717,8275,2024-05-07,2024-05-07,2024-05-09,UPI,"50, Noida, Uttar Pradesh - 201327",Delivered,Amazon
+718,1769,2025-07-20,2025-07-21,2025-07-23,UPI,"124, Mumbai, Maharashtra - 400010",Delivered,Amazon
+719,4965,2024-02-20,2024-02-25,2024-02-27,UPI,"157, Patna, Bihar - 800090",Returned,Amazon
+720,3047,2024-08-03,2024-08-03,2024-08-05,UPI,"115, Surat, Gujarat - 395069",Delivered,Amazon
+721,8617,2024-02-14,2024-02-21,2024-02-25,UPI,"88, Chandigarh, Chandigarh - 160088",Delivered,Amazon
+722,6357,2024-11-12,2024-11-14,2024-11-17,UPI,"177, Noida, Uttar Pradesh - 201362",Delivered,Amazon
+723,4955,2024-10-18,2024-10-19,2024-10-22,UPI,"56, Patna, Bihar - 800073",Delivered,Amazon
+724,9044,2025-08-16,2025-08-16,2025-08-19,"Cash on Delivery","22, Jaipur, Rajasthan - 302043",Delivered,Amazon
+725,5461,2024-02-13,2024-02-20,2024-02-24,UPI,"133, Chandigarh, Chandigarh - 160093",Delivered,Amazon
+726,602,2025-01-12,2025-01-15,2025-01-18,"Debit Card","121, Ahmedabad, Gujarat - 380028",Shipped,Amazon
+727,5825,2024-10-23,2024-10-25,2024-10-28,Wallet,"133, Ahmedabad, Gujarat - 380032",Delivered,Amazon
+728,7172,2024-05-03,2024-05-06,2024-05-13,"Cash on Delivery","126, Chandigarh, Chandigarh - 160038",Delivered,Amazon
+729,6439,2025-08-04,2025-08-04,2025-08-10,"Debit Card","101, Hyderabad, Telangana - 500005",Delivered,Amazon
+730,8106,2024-01-13,2024-01-17,2024-01-23,"Credit Card","74, Lucknow, Uttar Pradesh - 226047",Delivered,Amazon
+731,4420,2025-04-23,2025-04-23,2025-04-25,UPI,"30, Pune, Maharashtra - 411096",Delivered,Amazon
+732,11020,2024-05-20,2024-05-21,2024-05-24,"Credit Card","196, Nagpur, Maharashtra - 440034",Delivered,Amazon
+733,11130,2025-01-12,2025-01-12,2025-01-16,UPI,"97, Pune, Maharashtra - 411057",Delivered,Amazon
+734,11625,2025-03-22,2025-03-24,2025-03-28,UPI,"60, New Delhi, Delhi - 110044",Delivered,Amazon
+735,9593,2024-06-26,2024-06-27,2024-07-01,"Debit Card","170, Nagpur, Maharashtra - 440061",Delivered,Amazon
+736,9140,2025-03-26,2025-03-30,2025-04-01,"Debit Card","108, Ahmedabad, Gujarat - 380073",Delivered,Amazon
+737,3572,2025-08-14,2025-08-16,2025-08-19,Wallet,"141, Gurugram, Haryana - 122009",Delivered,Amazon
+738,913,2024-05-15,2024-05-16,2024-05-23,UPI,"59, Chennai, Tamil Nadu - 600029",Cancelled,Amazon
+739,5825,2025-04-12,2025-04-12,2025-04-15,UPI,"184, Ahmedabad, Gujarat - 380032",Delivered,Amazon
+740,5898,2024-10-28,2024-10-31,2024-11-03,"Credit Card","170, Gurugram, Haryana - 122007",Delivered,Amazon
+741,425,2024-02-01,2024-02-01,2024-02-05,"Cash on Delivery","111, Indore, Madhya Pradesh - 452032",Delivered,Amazon
+742,1079,2024-11-19,2024-11-22,2024-11-25,"Debit Card","50, Chennai, Tamil Nadu - 600082",Delivered,Amazon
+743,193,2025-09-07,2025-09-10,2025-09-13,UPI,"55, New Delhi, Delhi - 110083",Returned,Amazon
+744,91,2025-07-03,2025-07-05,2025-07-09,Wallet,"105, Kolkata, West Bengal - 700032",Delivered,Amazon
+745,5241,2025-07-14,2025-07-17,2025-07-21,UPI,"196, Nagpur, Maharashtra - 440064",Delivered,Amazon
+746,228,2025-02-06,2025-02-07,2025-02-10,"Debit Card","68, Bhopal, Madhya Pradesh - 462048",Delivered,Amazon
+747,10589,2025-06-01,2025-06-02,2025-06-05,UPI,"80, Noida, Uttar Pradesh - 201301",Delivered,Amazon
+748,9350,2025-08-08,2025-08-08,2025-08-12,UPI,"122, Hyderabad, Telangana - 500036",Delivered,Amazon
+749,1686,2025-03-05,2025-03-06,2025-03-09,"Debit Card","120, Nagpur, Maharashtra - 440016",Shipped,Amazon
+750,8277,2024-05-14,2024-05-14,2024-05-17,"Credit Card","137, Gurugram, Haryana - 122049",Shipped,Amazon
+751,9518,2025-02-03,2025-02-03,2025-02-13,UPI,"198, Nagpur, Maharashtra - 440013",Delivered,Amazon
+752,1954,2024-10-26,2024-11-02,2024-11-05,"Credit Card","149, Gurugram, Haryana - 122018",Delivered,Amazon
+753,11300,2025-01-07,2025-01-07,2025-01-11,UPI,"174, Kolkata, West Bengal - 700089",Delivered,Amazon
+754,11851,2025-04-05,2025-04-06,2025-04-12,"Credit Card","194, Hyderabad, Telangana - 500076",Delivered,Amazon
+755,11371,2025-05-25,2025-05-26,2025-06-01,"Credit Card","26, Lucknow, Uttar Pradesh - 226011",Delivered,Amazon
+756,1949,2025-05-01,2025-05-05,2025-05-09,UPI,"195, Vadodara, Gujarat - 390097",Delivered,Amazon
+757,11687,2024-08-26,2024-08-31,2024-09-02,"Cash on Delivery","192, Jaipur, Rajasthan - 302057",Shipped,Amazon
+758,5981,2024-06-28,2024-06-29,2024-07-01,"Credit Card","97, Gurugram, Haryana - 122030",Delivered,Amazon
+759,7597,2024-06-04,2024-06-11,2024-06-17,UPI,"64, Jaipur, Rajasthan - 302023",Delivered,Amazon
+760,10060,2024-11-25,2024-11-27,2024-12-01,UPI,"102, New Delhi, Delhi - 110011",Delivered,Amazon
+761,1915,2025-02-22,2025-02-26,2025-03-01,"Credit Card","59, Chandigarh, Chandigarh - 160051",Delivered,Amazon
+762,11411,2024-03-14,2024-03-15,2024-03-25,Wallet,"182, Chandigarh, Chandigarh - 160034",Delivered,Amazon
+763,6006,2025-06-29,2025-06-29,2025-07-01,Wallet,"109, Kanpur, Uttar Pradesh - 208006",Delivered,Amazon
+764,8488,2024-10-28,2024-10-28,2024-11-01,"Credit Card","156, Mumbai, Maharashtra - 400000",Delivered,Amazon
+765,4755,2024-11-29,2024-11-30,2024-12-02,"Cash on Delivery","157, Bhopal, Madhya Pradesh - 462050",Delivered,Amazon
+766,2627,2025-06-20,2025-06-20,2025-06-24,UPI,"163, New Delhi, Delhi - 110055",Delivered,Amazon
+767,4073,2025-01-26,2025-01-31,2025-02-14,"Credit Card","50, Surat, Gujarat - 395015",Shipped,Amazon
+768,11341,2024-03-29,2024-03-29,2024-04-01,"Cash on Delivery","108, Patna, Bihar - 800061",Delivered,Amazon
+769,9788,2024-10-20,2024-10-20,2024-10-22,"Credit Card","97, Mumbai, Maharashtra - 400014",Delivered,Amazon
+770,3889,2024-05-08,2024-05-10,2024-05-17,"Credit Card","78, Indore, Madhya Pradesh - 452004",Delivered,Amazon
+771,4490,2024-08-29,2024-08-29,2024-09-02,"Credit Card","80, Bengaluru, Karnataka - 560084",Delivered,Amazon
+772,4296,2024-11-16,2024-11-17,2024-11-20,UPI,"180, Patna, Bihar - 800038",Shipped,Amazon
+773,8991,2025-03-23,2025-03-24,2025-03-28,UPI,"27, Mumbai, Maharashtra - 400067",Delivered,Amazon
+774,1825,2024-11-02,2024-11-02,2024-11-07,UPI,"75, Gurugram, Haryana - 122061",Delivered,Amazon
+775,2641,2024-05-31,2024-05-31,2024-06-04,"Debit Card","72, Patna, Bihar - 800028",Delivered,Amazon
+776,6954,2024-04-10,2024-04-15,2024-04-19,"Credit Card","63, Lucknow, Uttar Pradesh - 226088",Delivered,Amazon
+777,4025,2025-07-26,2025-07-27,2025-07-31,UPI,"135, Surat, Gujarat - 395076",Delivered,Amazon
+778,4963,2025-08-05,2025-08-05,2025-08-08,UPI,"83, Indore, Madhya Pradesh - 452017",Delivered,Amazon
+779,14,2025-06-21,2025-06-24,2025-06-26,"Debit Card","66, Kolkata, West Bengal - 700056",Delivered,Amazon
+780,218,2024-07-06,2024-07-08,2024-07-11,UPI,"21, Patna, Bihar - 800077",Cancelled,Amazon
+781,11792,2025-04-16,2025-04-16,2025-04-21,UPI,"134, Chennai, Tamil Nadu - 600060",Delivered,Amazon
+782,10637,2024-11-20,2024-11-24,2024-12-01,"Debit Card","9, Bhopal, Madhya Pradesh - 462001",Delivered,Amazon
+783,3352,2024-11-27,2024-11-28,2024-12-02,UPI,"183, Noida, Uttar Pradesh - 201304",Delivered,Amazon
+784,3728,2024-11-02,2024-11-03,2024-11-08,"Credit Card","186, Gurugram, Haryana - 122031",Delivered,Amazon
+785,9018,2025-01-11,2025-01-12,2025-01-16,UPI,"72, Bhopal, Madhya Pradesh - 462053",Delivered,Amazon
+786,10559,2024-07-30,2024-07-31,2024-08-10,UPI,"77, Gurugram, Haryana - 122012",Delivered,Amazon
+787,11968,2024-07-25,2024-07-29,2024-07-31,"Debit Card","110, Kolkata, West Bengal - 700071",Delivered,Amazon
+788,9501,2024-09-06,2024-09-06,2024-09-08,"Debit Card","123, Patna, Bihar - 800018",Delivered,Amazon
+789,1367,2024-07-03,2024-07-05,2024-07-08,UPI,"197, Gurugram, Haryana - 122021",Delivered,Amazon
+790,3254,2025-06-27,2025-07-02,2025-07-04,UPI,"116, Chandigarh, Chandigarh - 160017",Delivered,Amazon
+791,9513,2025-02-02,2025-02-06,2025-02-10,"Cash on Delivery","27, Hyderabad, Telangana - 500054",Shipped,Amazon
+792,11571,2024-11-20,2024-11-22,2024-11-27,"Credit Card","119, Pune, Maharashtra - 411086",Delivered,Amazon
+793,4524,2024-05-03,2024-05-05,2024-05-09,"Debit Card","184, Chandigarh, Chandigarh - 160022",Delivered,Amazon
+794,1442,2024-06-01,2024-06-04,2024-06-06,UPI,"91, Bhopal, Madhya Pradesh - 462007",Delivered,Amazon
+795,4237,2024-09-12,2024-09-12,2024-09-14,"Credit Card","189, Gurugram, Haryana - 122003",Returned,Amazon
+796,6151,2025-04-18,2025-04-19,2025-04-21,Wallet,"6, Mumbai, Maharashtra - 400073",Returned,Amazon
+797,7452,2025-07-25,2025-07-29,2025-08-01,"Credit Card","74, Patna, Bihar - 800021",Delivered,Amazon
+798,790,2024-05-19,2024-05-19,2024-05-24,"Credit Card","50, Ahmedabad, Gujarat - 380087",Delivered,Amazon
+799,8070,2024-12-20,2024-12-21,2024-12-27,"Credit Card","136, Nagpur, Maharashtra - 440084",Delivered,Amazon
+800,9712,2024-10-09,2024-10-11,2024-10-14,UPI,"82, Indore, Madhya Pradesh - 452055",Delivered,Amazon
+801,6678,2025-01-20,2025-01-20,2025-01-23,UPI,"33, Mumbai, Maharashtra - 400014",Delivered,Amazon
+802,3023,2025-06-20,2025-06-21,2025-06-26,UPI,"34, Indore, Madhya Pradesh - 452076",Delivered,Amazon
+803,2669,2024-09-01,2024-09-08,2024-09-11,UPI,"48, Chennai, Tamil Nadu - 600023",Delivered,Amazon
+804,11378,2025-02-28,2025-03-01,2025-03-03,UPI,"39, Chandigarh, Chandigarh - 160028",Delivered,Amazon
+805,4540,2024-05-27,2024-05-27,2024-05-31,UPI,"87, Vadodara, Gujarat - 390047",Delivered,Amazon
+806,2408,2024-02-12,2024-02-13,2024-02-18,UPI,"17, Ahmedabad, Gujarat - 380090",Delivered,Amazon
+807,1988,2024-09-21,2024-09-21,2024-09-23,Wallet,"63, Pune, Maharashtra - 411005",Delivered,Amazon
+808,8753,2024-05-31,2024-06-01,2024-06-05,"Debit Card","141, Ahmedabad, Gujarat - 380002",Delivered,Amazon
+809,9798,2024-05-28,2024-05-29,2024-06-03,"Debit Card","71, Chandigarh, Chandigarh - 160005",Delivered,Amazon
+810,9259,2024-01-22,2024-01-24,2024-01-28,"Debit Card","68, Gurugram, Haryana - 122069",Delivered,Amazon
+811,4323,2025-04-01,2025-04-03,2025-04-08,Wallet,"128, New Delhi, Delhi - 110005",Delivered,Amazon
+812,1979,2024-03-08,2024-03-09,2024-03-12,"Credit Card","65, Nagpur, Maharashtra - 440022",Delivered,Amazon
+813,3540,2024-10-14,2024-10-16,2024-10-20,UPI,"64, Lucknow, Uttar Pradesh - 226003",Delivered,Amazon
+814,6959,2024-12-04,2024-12-05,2024-12-08,"Cash on Delivery","126, Chennai, Tamil Nadu - 600017",Delivered,Amazon
+815,4657,2024-05-12,2024-05-15,2024-05-17,UPI,"16, Chandigarh, Chandigarh - 160076",Delivered,Amazon
+816,3794,2024-12-29,2024-12-31,2025-01-07,"Credit Card","56, Surat, Gujarat - 395076",Delivered,Amazon
+817,1153,2025-06-26,2025-06-26,2025-06-30,"Debit Card","130, Bengaluru, Karnataka - 560009",Delivered,Amazon
+818,447,2024-03-07,2024-03-08,2024-03-11,"Credit Card","158, Hyderabad, Telangana - 500054",Delivered,Amazon
+819,3683,2024-10-26,2024-10-27,2024-11-06,"Credit Card","19, Kanpur, Uttar Pradesh - 208082",Returned,Amazon
+820,399,2025-09-05,2025-09-05,2025-09-07,"Debit Card","190, Patna, Bihar - 800095",Delivered,Amazon
+821,10705,2025-04-03,2025-04-04,2025-04-11,UPI,"72, Mumbai, Maharashtra - 400075",Delivered,Amazon
+822,6512,2024-06-27,2024-06-27,2024-07-07,"Debit Card","101, Hyderabad, Telangana - 500041",Delivered,Amazon
+823,3258,2025-02-14,2025-02-16,2025-02-21,"Credit Card","157, Surat, Gujarat - 395080",Delivered,Amazon
+824,1216,2024-08-31,2024-09-01,2024-09-07,UPI,"173, Hyderabad, Telangana - 500058",Delivered,Amazon
+825,4646,2025-03-16,2025-03-17,2025-03-22,"Debit Card","129, Kanpur, Uttar Pradesh - 208077",Delivered,Amazon
+826,8649,2024-04-25,2024-04-27,2024-05-01,UPI,"1, Vadodara, Gujarat - 390081",Returned,Amazon
+827,4627,2025-06-02,2025-06-05,2025-06-07,Wallet,"173, Bengaluru, Karnataka - 560042",Delivered,Amazon
+828,262,2025-04-11,2025-04-13,2025-04-19,UPI,"40, Chennai, Tamil Nadu - 600047",Delivered,Amazon
+829,3394,2025-03-08,2025-03-11,2025-03-15,UPI,"69, Kanpur, Uttar Pradesh - 208038",Delivered,Amazon
+830,6079,2025-01-06,2025-01-06,2025-01-09,UPI,"194, Vadodara, Gujarat - 390069",Delivered,Amazon
+831,10811,2024-06-20,2024-06-20,2024-06-24,UPI,"195, Hyderabad, Telangana - 500089",Delivered,Amazon
+832,3160,2024-02-20,2024-02-20,2024-02-23,UPI,"93, Patna, Bihar - 800039",Shipped,Amazon
+833,841,2024-05-03,2024-05-07,2024-05-11,"Debit Card","116, Kolkata, West Bengal - 700039",Cancelled,Amazon
+834,9595,2024-04-29,2024-04-29,2024-05-04,UPI,"97, Kolkata, West Bengal - 700064",Delivered,Amazon
+835,7994,2024-01-30,2024-01-31,2024-02-04,Wallet,"106, Patna, Bihar - 800016",Delivered,Amazon
+836,9358,2025-04-16,2025-04-16,2025-04-21,"Debit Card","179, Chennai, Tamil Nadu - 600072",Delivered,Amazon
+837,4000,2024-10-17,2024-10-20,2024-10-27,UPI,"3, Hyderabad, Telangana - 500083",Delivered,Amazon
+838,6396,2024-06-13,2024-06-16,2024-06-20,UPI,"58, Bhopal, Madhya Pradesh - 462026",Delivered,Amazon
+839,7199,2025-06-29,2025-07-01,2025-07-08,UPI,"48, Surat, Gujarat - 395010",Shipped,Amazon
+840,211,2025-05-15,2025-05-16,2025-05-21,UPI,"148, Gurugram, Haryana - 122041",Delivered,Amazon
+841,11350,2025-08-05,2025-08-07,2025-08-12,"Credit Card","120, Vadodara, Gujarat - 390046",Shipped,Amazon
+842,1897,2025-01-25,2025-01-27,2025-01-30,"Credit Card","34, Mumbai, Maharashtra - 400006",Delivered,Amazon
+843,3761,2024-03-09,2024-03-11,2024-03-16,UPI,"37, Vadodara, Gujarat - 390018",Delivered,Amazon
+844,1099,2025-05-23,2025-05-24,2025-05-28,Wallet,"10, Jaipur, Rajasthan - 302089",Delivered,Amazon
+845,9244,2025-07-06,2025-07-07,2025-07-09,"Credit Card","168, Hyderabad, Telangana - 500039",Delivered,Amazon
+846,10086,2025-08-29,2025-08-31,2025-09-03,UPI,"25, Hyderabad, Telangana - 500013",Delivered,Amazon
+847,1662,2025-07-16,2025-07-18,2025-07-20,UPI,"105, Mumbai, Maharashtra - 400050",Delivered,Amazon
+848,4474,2024-09-26,2024-09-27,2024-09-30,Wallet,"36, Kolkata, West Bengal - 700014",Delivered,Amazon
+849,2251,2024-11-30,2024-12-03,2024-12-05,"Cash on Delivery","8, Mumbai, Maharashtra - 400059",Delivered,Amazon
+850,5294,2024-02-11,2024-02-12,2024-02-16,"Credit Card","170, Hyderabad, Telangana - 500007",Delivered,Amazon
+851,6546,2025-04-26,2025-04-28,2025-05-02,UPI,"162, Jaipur, Rajasthan - 302060",Delivered,Amazon
+852,11606,2024-04-28,2024-04-28,2024-05-01,"Debit Card","8, Patna, Bihar - 800037",Delivered,Amazon
+853,9607,2024-04-07,2024-04-07,2024-04-09,UPI,"151, Chennai, Tamil Nadu - 600033",Cancelled,Amazon
+854,8309,2025-01-19,2025-01-22,2025-01-25,UPI,"84, Noida, Uttar Pradesh - 201326",Returned,Amazon
+855,10758,2025-01-20,2025-01-20,2025-01-22,UPI,"63, Nagpur, Maharashtra - 440067",Delivered,Amazon
+856,8268,2024-11-03,2024-11-05,2024-11-10,Wallet,"29, Gurugram, Haryana - 122088",Delivered,Amazon
+857,1886,2025-02-16,2025-02-18,2025-02-25,"Cash on Delivery","165, Patna, Bihar - 800067",Delivered,Amazon
+858,908,2024-01-01,2024-01-01,2024-01-05,UPI,"186, Vadodara, Gujarat - 390095",Delivered,Amazon
+859,10664,2025-07-24,2025-07-25,2025-07-31,"Debit Card","82, Nagpur, Maharashtra - 440003",Delivered,Amazon
+860,7119,2024-10-29,2024-10-29,2024-11-02,Wallet,"172, Vadodara, Gujarat - 390067",Delivered,Amazon
+861,5170,2024-04-26,2024-04-26,2024-05-01,UPI,"55, Bhopal, Madhya Pradesh - 462066",Delivered,Amazon
+862,8997,2024-06-11,2024-06-13,2024-06-18,"Credit Card","147, Nagpur, Maharashtra - 440097",Shipped,Amazon
+863,4415,2024-10-17,2024-10-18,2024-10-23,"Credit Card","180, New Delhi, Delhi - 110027",Delivered,Amazon
+864,7998,2024-03-20,2024-03-21,2024-03-23,UPI,"40, Surat, Gujarat - 395004",Delivered,Amazon
+865,6853,2025-04-26,2025-04-26,2025-04-30,"Debit Card","126, Kanpur, Uttar Pradesh - 208080",Delivered,Amazon
+866,8825,2025-06-01,2025-06-02,2025-06-08,"Credit Card","198, Nagpur, Maharashtra - 440006",Delivered,Amazon
+867,1416,2025-02-14,2025-02-14,2025-02-17,"Credit Card","138, Pune, Maharashtra - 411033",Delivered,Amazon
+868,4730,2024-04-27,2024-04-28,2024-04-30,"Credit Card","24, Patna, Bihar - 800018",Delivered,Amazon
+869,3803,2025-05-31,2025-06-01,2025-06-03,"Cash on Delivery","82, Kanpur, Uttar Pradesh - 208094",Delivered,Amazon
+870,7222,2024-01-12,2024-01-17,2024-01-24,"Debit Card","171, Ahmedabad, Gujarat - 380083",Cancelled,Amazon
+871,1367,2025-06-29,2025-06-30,2025-07-04,UPI,"44, Gurugram, Haryana - 122021",Shipped,Amazon
+872,4456,2024-07-23,2024-07-23,2024-07-27,UPI,"184, Gurugram, Haryana - 122090",Delivered,Amazon
+873,164,2024-06-01,2024-06-05,2024-06-08,UPI,"78, Kolkata, West Bengal - 700084",Shipped,Amazon
+874,10365,2025-05-01,2025-05-01,2025-05-06,"Debit Card","185, Ahmedabad, Gujarat - 380078",Delivered,Amazon
+875,7931,2024-08-04,2024-08-05,2024-08-08,UPI,"132, Kanpur, Uttar Pradesh - 208006",Delivered,Amazon
+876,7400,2024-05-20,2024-05-22,2024-05-27,"Credit Card","69, Lucknow, Uttar Pradesh - 226063",Delivered,Amazon
+877,2784,2024-09-01,2024-09-01,2024-09-03,UPI,"185, Kanpur, Uttar Pradesh - 208063",Delivered,Amazon
+878,3286,2024-11-24,2024-11-25,2024-11-30,"Credit Card","190, Gurugram, Haryana - 122072",Delivered,Amazon
+879,1210,2025-08-01,2025-08-02,2025-08-06,UPI,"114, Hyderabad, Telangana - 500073",Shipped,Amazon
+880,10228,2024-10-04,2024-10-04,2024-10-09,"Credit Card","123, Lucknow, Uttar Pradesh - 226048",Cancelled,Amazon
+881,3944,2025-07-12,2025-07-15,2025-07-20,UPI,"196, Jaipur, Rajasthan - 302082",Delivered,Amazon
+882,9069,2025-01-28,2025-01-28,2025-02-04,UPI,"122, Nagpur, Maharashtra - 440040",Delivered,Amazon
+883,1027,2024-03-20,2024-03-23,2024-03-26,Wallet,"23, Indore, Madhya Pradesh - 452054",Delivered,Amazon
+884,8086,2024-11-29,2024-12-02,2024-12-04,UPI,"161, Chandigarh, Chandigarh - 160067",Delivered,Amazon
+885,9179,2025-01-12,2025-01-12,2025-01-14,"Credit Card","53, Pune, Maharashtra - 411081",Shipped,Amazon
+886,6163,2024-11-28,2024-12-05,2024-12-09,"Credit Card","197, Indore, Madhya Pradesh - 452015",Delivered,Amazon
+887,9799,2025-04-22,2025-04-22,2025-04-25,"Debit Card","64, Vadodara, Gujarat - 390040",Delivered,Amazon
+888,8479,2024-11-08,2024-11-10,2024-11-12,"Debit Card","157, Patna, Bihar - 800089",Delivered,Amazon
+889,2981,2024-08-08,2024-08-08,2024-08-13,Wallet,"73, Chandigarh, Chandigarh - 160036",Shipped,Amazon
+890,3741,2024-05-06,2024-05-08,2024-05-10,UPI,"86, Noida, Uttar Pradesh - 201344",Delivered,Amazon
+891,3512,2024-08-06,2024-08-08,2024-08-11,UPI,"11, Indore, Madhya Pradesh - 452044",Delivered,Amazon
+892,6846,2025-08-18,2025-08-18,2025-08-21,UPI,"195, Jaipur, Rajasthan - 302080",Delivered,Amazon
+893,2775,2025-02-26,2025-02-28,2025-03-10,"Credit Card","17, Mumbai, Maharashtra - 400091",Delivered,Amazon
+894,416,2024-09-15,2024-09-16,2024-09-19,UPI,"175, Kolkata, West Bengal - 700034",Delivered,Amazon
+895,7838,2024-11-07,2024-11-08,2024-11-10,"Credit Card","59, Ahmedabad, Gujarat - 380028",Delivered,Amazon
+896,2633,2024-10-28,2024-10-30,2024-11-01,UPI,"58, New Delhi, Delhi - 110014",Delivered,Amazon
+897,1465,2024-02-24,2024-02-25,2024-03-01,"Debit Card","106, Kolkata, West Bengal - 700096",Delivered,Amazon
+898,11740,2025-07-02,2025-07-07,2025-07-12,UPI,"3, Gurugram, Haryana - 122072",Delivered,Amazon
+899,1671,2025-07-10,2025-07-11,2025-07-15,UPI,"107, Kanpur, Uttar Pradesh - 208068",Delivered,Amazon
+900,9422,2025-03-21,2025-03-25,2025-04-01,"Credit Card","110, Ahmedabad, Gujarat - 380090",Returned,Amazon
+901,4932,2024-11-23,2024-11-25,2024-11-29,"Credit Card","27, Pune, Maharashtra - 411057",Delivered,Amazon
+902,8273,2025-05-08,2025-05-10,2025-05-12,UPI,"136, New Delhi, Delhi - 110021",Delivered,Amazon
+903,398,2025-08-18,2025-08-19,2025-08-22,Wallet,"154, Hyderabad, Telangana - 500001",Delivered,Amazon
+904,2533,2025-03-14,2025-03-15,2025-03-17,"Cash on Delivery","14, Bengaluru, Karnataka - 560058",Shipped,Amazon
+905,4436,2024-04-09,2024-04-09,2024-04-11,"Debit Card","104, Kolkata, West Bengal - 700005",Delivered,Amazon
+906,11943,2024-09-10,2024-09-10,2024-09-14,UPI,"108, Pune, Maharashtra - 411050",Delivered,Amazon
+907,8684,2025-01-06,2025-01-07,2025-01-10,"Debit Card","190, Lucknow, Uttar Pradesh - 226066",Delivered,Amazon
+908,7887,2025-02-25,2025-02-25,2025-03-11,"Debit Card","29, Kolkata, West Bengal - 700055",Delivered,Amazon
+909,4021,2024-09-13,2024-09-13,2024-09-16,UPI,"106, Kanpur, Uttar Pradesh - 208038",Delivered,Amazon
+910,8690,2025-04-01,2025-04-02,2025-04-05,"Debit Card","24, Noida, Uttar Pradesh - 201310",Delivered,Amazon
+911,5561,2024-05-20,2024-05-21,2024-05-23,UPI,"29, Kolkata, West Bengal - 700034",Delivered,Amazon
+912,5479,2024-04-11,2024-04-16,2024-04-20,Wallet,"7, Hyderabad, Telangana - 500020",Delivered,Amazon
+913,2000,2024-02-16,2024-02-16,2024-02-21,UPI,"154, Indore, Madhya Pradesh - 452009",Delivered,Amazon
+914,8781,2024-06-26,2024-06-26,2024-06-30,Wallet,"73, Surat, Gujarat - 395039",Cancelled,Amazon
+915,2456,2024-06-19,2024-06-19,2024-06-22,"Credit Card","142, Ahmedabad, Gujarat - 380048",Delivered,Amazon
+916,9013,2024-08-17,2024-08-17,2024-08-19,UPI,"71, Bengaluru, Karnataka - 560090",Delivered,Amazon
+917,3408,2025-01-03,2025-01-04,2025-01-09,UPI,"106, Chennai, Tamil Nadu - 600074",Delivered,Amazon
+918,6862,2024-09-30,2024-10-01,2024-10-11,UPI,"99, Mumbai, Maharashtra - 400087",Delivered,Amazon
+919,11004,2025-06-16,2025-06-17,2025-06-22,Wallet,"178, Bhopal, Madhya Pradesh - 462000",Delivered,Amazon
+920,246,2024-03-07,2024-03-08,2024-03-13,"Cash on Delivery","5, Kolkata, West Bengal - 700035",Delivered,Amazon
+921,9499,2025-07-25,2025-07-27,2025-08-01,UPI,"103, Chandigarh, Chandigarh - 160075",Delivered,Amazon
+922,386,2024-04-13,2024-04-13,2024-04-23,"Debit Card","186, Pune, Maharashtra - 411083",Delivered,Amazon
+923,5361,2024-03-28,2024-03-28,2024-04-01,UPI,"176, New Delhi, Delhi - 110023",Shipped,Amazon
+924,1364,2025-01-09,2025-01-11,2025-01-16,UPI,"6, Bhopal, Madhya Pradesh - 462071",Delivered,Amazon
+925,11827,2024-06-30,2024-07-01,2024-07-05,UPI,"160, New Delhi, Delhi - 110074",Delivered,Amazon
+926,1931,2024-06-06,2024-06-08,2024-06-15,"Credit Card","88, Bengaluru, Karnataka - 560051",Delivered,Amazon
+927,7425,2024-09-15,2024-09-17,2024-09-21,"Cash on Delivery","168, Indore, Madhya Pradesh - 452045",Delivered,Amazon
+928,8486,2024-02-15,2024-02-16,2024-02-18,"Credit Card","158, Ahmedabad, Gujarat - 380095",Delivered,Amazon
+929,10890,2025-06-24,2025-06-26,2025-06-30,UPI,"57, Pune, Maharashtra - 411021",Delivered,Amazon
+930,6114,2025-05-10,2025-05-11,2025-05-15,"Debit Card","35, Mumbai, Maharashtra - 400072",Delivered,Amazon
+931,4092,2024-08-25,2024-08-25,2024-08-30,"Credit Card","40, Vadodara, Gujarat - 390041",Delivered,Amazon
+932,5480,2025-04-10,2025-04-10,2025-04-14,UPI,"140, Nagpur, Maharashtra - 440081",Delivered,Amazon
+933,10967,2024-02-15,2024-02-17,2024-02-21,Wallet,"191, Surat, Gujarat - 395067",Delivered,Amazon
+934,5417,2024-06-12,2024-06-13,2024-06-16,UPI,"194, Bhopal, Madhya Pradesh - 462099",Delivered,Amazon
+935,8971,2025-03-31,2025-04-01,2025-04-06,"Cash on Delivery","144, Surat, Gujarat - 395076",Shipped,Amazon
+936,11716,2024-07-31,2024-07-31,2024-08-03,"Credit Card","139, Vadodara, Gujarat - 390061",Delivered,Amazon
+937,9446,2025-06-21,2025-06-21,2025-06-25,"Credit Card","4, Ahmedabad, Gujarat - 380057",Delivered,Amazon
+938,10872,2025-08-19,2025-08-19,2025-08-24,UPI,"155, Indore, Madhya Pradesh - 452030",Delivered,Amazon
+939,11349,2024-08-24,2024-08-28,2024-09-01,"Debit Card","94, Mumbai, Maharashtra - 400041",Shipped,Amazon
+940,6586,2024-09-05,2024-09-05,2024-09-08,"Debit Card","2, Chandigarh, Chandigarh - 160047",Delivered,Amazon
+941,3489,2025-03-23,2025-03-24,2025-03-30,"Credit Card","21, Noida, Uttar Pradesh - 201344",Shipped,Amazon
+942,413,2025-06-19,2025-06-21,2025-06-26,UPI,"65, Jaipur, Rajasthan - 302025",Delivered,Amazon
+943,2933,2024-11-06,2024-11-07,2024-11-09,UPI,"7, Pune, Maharashtra - 411072",Delivered,Amazon
+944,8355,2024-02-24,2024-02-27,2024-03-03,"Credit Card","180, Indore, Madhya Pradesh - 452050",Shipped,Amazon
+945,2231,2025-01-26,2025-01-29,2025-02-03,UPI,"178, Lucknow, Uttar Pradesh - 226013",Cancelled,Amazon
+946,84,2024-02-08,2024-02-12,2024-02-18,Wallet,"72, Kolkata, West Bengal - 700001",Delivered,Amazon
+947,8755,2025-03-14,2025-03-15,2025-03-20,UPI,"193, Patna, Bihar - 800003",Delivered,Amazon
+948,2779,2025-05-01,2025-05-02,2025-05-06,"Cash on Delivery","45, Lucknow, Uttar Pradesh - 226031",Cancelled,Amazon
+949,906,2024-08-05,2024-08-07,2024-08-12,"Debit Card","115, Chandigarh, Chandigarh - 160031",Delivered,Amazon
+950,2163,2024-02-18,2024-02-20,2024-02-27,"Cash on Delivery","58, Gurugram, Haryana - 122089",Returned,Amazon
+951,6797,2025-06-30,2025-06-30,2025-07-04,UPI,"110, Vadodara, Gujarat - 390006",Delivered,Amazon
+952,9603,2025-09-01,2025-09-03,2025-09-06,"Credit Card","48, Mumbai, Maharashtra - 400058",Returned,Amazon
+953,11189,2025-02-13,2025-02-13,2025-02-16,"Debit Card","15, Jaipur, Rajasthan - 302063",Delivered,Amazon
+954,3688,2025-07-30,2025-07-30,2025-08-02,UPI,"84, Chennai, Tamil Nadu - 600023",Delivered,Amazon
+955,3594,2024-11-30,2024-11-30,2024-12-03,"Cash on Delivery","160, Lucknow, Uttar Pradesh - 226076",Delivered,Amazon
+956,2128,2024-06-25,2024-06-25,2024-06-29,UPI,"194, Chennai, Tamil Nadu - 600018",Delivered,Amazon
+957,6801,2024-09-05,2024-09-06,2024-09-12,"Credit Card","52, Kolkata, West Bengal - 700061",Shipped,Amazon
+958,7970,2024-06-09,2024-06-09,2024-06-12,"Debit Card","124, Indore, Madhya Pradesh - 452080",Delivered,Amazon
+959,3866,2024-06-19,2024-06-20,2024-06-27,"Credit Card","127, Chennai, Tamil Nadu - 600032",Shipped,Amazon
+960,4844,2024-11-10,2024-11-10,2024-11-13,Wallet,"66, Noida, Uttar Pradesh - 201320",Returned,Amazon
+961,8355,2024-02-02,2024-02-03,2024-02-13,UPI,"8, Indore, Madhya Pradesh - 452050",Delivered,Amazon
+962,6673,2024-08-04,2024-08-05,2024-08-09,UPI,"42, Vadodara, Gujarat - 390087",Delivered,Amazon
+963,2818,2024-01-12,2024-01-16,2024-01-20,UPI,"82, Kanpur, Uttar Pradesh - 208009",Delivered,Amazon
+964,5908,2025-06-11,2025-06-11,2025-06-13,"Cash on Delivery","143, Bengaluru, Karnataka - 560061",Delivered,Amazon
+965,6690,2025-01-15,2025-01-15,2025-01-17,UPI,"50, Kanpur, Uttar Pradesh - 208009",Returned,Amazon
+966,11148,2024-01-06,2024-01-06,2024-01-13,"Cash on Delivery","157, Jaipur, Rajasthan - 302068",Delivered,Amazon
+967,8643,2024-02-11,2024-02-14,2024-02-17,UPI,"61, New Delhi, Delhi - 110052",Delivered,Amazon
+968,6219,2025-04-26,2025-04-26,2025-05-03,UPI,"133, Pune, Maharashtra - 411088",Cancelled,Amazon
+969,4587,2024-03-29,2024-04-03,2024-04-05,"Debit Card","15, Nagpur, Maharashtra - 440044",Delivered,Amazon
+970,2065,2025-05-02,2025-05-03,2025-05-07,UPI,"12, Pune, Maharashtra - 411073",Delivered,Amazon
+971,9735,2025-01-21,2025-01-24,2025-01-28,UPI,"173, Kolkata, West Bengal - 700000",Delivered,Amazon
+972,6122,2024-09-16,2024-09-18,2024-09-25,UPI,"65, Chandigarh, Chandigarh - 160057",Delivered,Amazon
+973,7106,2024-08-07,2024-08-08,2024-08-11,UPI,"96, Bhopal, Madhya Pradesh - 462036",Delivered,Amazon
+974,2729,2024-07-13,2024-07-13,2024-07-19,UPI,"113, Lucknow, Uttar Pradesh - 226058",Delivered,Amazon
+975,3762,2024-03-26,2024-03-26,2024-03-28,"Credit Card","101, Chandigarh, Chandigarh - 160049",Delivered,Amazon
+976,4577,2024-10-15,2024-10-19,2024-10-22,Wallet,"151, Nagpur, Maharashtra - 440092",Delivered,Amazon
+977,4629,2024-05-25,2024-05-27,2024-06-01,Wallet,"74, Kanpur, Uttar Pradesh - 208086",Delivered,Amazon
+978,8180,2025-05-21,2025-05-23,2025-05-25,UPI,"89, Noida, Uttar Pradesh - 201355",Delivered,Amazon
+979,3161,2024-06-03,2024-06-07,2024-06-09,UPI,"180, Bhopal, Madhya Pradesh - 462090",Delivered,Amazon
+980,3620,2025-09-02,2025-09-02,2025-09-09,"Debit Card","46, Surat, Gujarat - 395088",Delivered,Amazon
+981,6629,2024-03-18,2024-03-19,2024-03-25,"Debit Card","10, Hyderabad, Telangana - 500062",Delivered,Amazon
+982,47,2025-03-21,2025-03-22,2025-03-24,"Debit Card","22, New Delhi, Delhi - 110017",Delivered,Amazon
+983,9287,2024-04-22,2024-04-24,2024-04-26,"Credit Card","44, New Delhi, Delhi - 110090",Returned,Amazon
+984,7667,2025-04-09,2025-04-09,2025-04-12,"Cash on Delivery","183, Lucknow, Uttar Pradesh - 226063",Delivered,Amazon
+985,2246,2024-01-08,2024-01-08,2024-01-11,"Credit Card","162, Noida, Uttar Pradesh - 201343",Delivered,Amazon
+986,5869,2024-09-02,2024-09-03,2024-09-05,UPI,"37, Lucknow, Uttar Pradesh - 226077",Delivered,Amazon
+987,9426,2025-02-25,2025-02-26,2025-03-03,UPI,"9, Hyderabad, Telangana - 500009",Delivered,Amazon
+988,6604,2025-04-02,2025-04-04,2025-04-06,"Debit Card","76, Noida, Uttar Pradesh - 201367",Delivered,Amazon
+989,423,2025-03-02,2025-03-03,2025-03-07,"Credit Card","176, Bhopal, Madhya Pradesh - 462069",Delivered,Amazon
+990,6281,2024-12-18,2024-12-20,2024-12-22,"Debit Card","112, Bengaluru, Karnataka - 560081",Delivered,Amazon
+991,855,2024-10-29,2024-10-29,2024-11-01,"Debit Card","37, Vadodara, Gujarat - 390066",Delivered,Amazon
+992,2272,2024-11-21,2024-11-23,2024-11-29,UPI,"120, Bengaluru, Karnataka - 560042",Delivered,Amazon
+993,8751,2024-11-18,2024-11-20,2024-11-27,UPI,"142, Ahmedabad, Gujarat - 380051",Delivered,Amazon
+994,1603,2024-12-18,2024-12-19,2024-12-22,"Credit Card","144, Jaipur, Rajasthan - 302053",Returned,Amazon
+995,4523,2025-08-18,2025-08-18,2025-08-25,UPI,"21, Kolkata, West Bengal - 700048",Delivered,Amazon
+996,9885,2024-12-30,2025-01-01,2025-01-05,UPI,"175, Nagpur, Maharashtra - 440015",Delivered,Amazon
+997,5021,2024-09-05,2024-09-06,2024-09-12,UPI,"81, Bhopal, Madhya Pradesh - 462007",Delivered,Amazon
+998,4654,2025-08-28,2025-09-04,2025-09-07,UPI,"97, Jaipur, Rajasthan - 302037",Delivered,Amazon
+999,6392,2025-05-23,2025-05-24,2025-05-26,Wallet,"176, New Delhi, Delhi - 110087",Delivered,Amazon
+1000,7122,2024-06-07,2024-06-10,2024-06-12,"Credit Card","96, Bengaluru, Karnataka - 560025",Delivered,Amazon
